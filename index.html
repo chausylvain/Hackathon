@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tableau de bord stratégique ensIIE</title>
+<link rel="stylesheet" href="css/style.css">
+<!-- PapaParse lit les CSV, Chart.js dessine les graphiques -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+<header>
+  <div class="entete">
+    <div class="marque">
+      <img class="logo" src="assets/logo-ensiie.svg" alt="ensIIE"
+           onerror="this.outerHTML='<span class=&quot;logo-texte&quot;>ensIIE</span>'">
+      <div>
+        <h1>Tableau de bord stratégique</h1>
+        <p>Pilotage de l'école · six axes, 20 indicateurs</p>
+      </div>
+    </div>
+    <div class="filtres">
+      <label>Année <select id="annee"></select></label>
+      <span>Filières :</span>
+      <label class="puce"><input type="checkbox" value="FISE" checked> FISE</label>
+      <label class="puce"><input type="checkbox" value="FISEA" checked> FISEA</label>
+      <label class="puce"><input type="checkbox" value="Master" checked> Master</label>
+    </div>
+  </div>
+  <nav id="onglets" role="tablist"></nav>
+</header>
+
+<main>
+  <div id="erreur" class="boite">
+    <strong>Impossible de lire certains fichiers CSV :</strong> <span id="erreur-fichiers"></span>
+    <p>Placez les 8 CSV du kit dans le dossier <code>data/</code> (ou lancez <code>./lancer.sh</code>, qui les télécharge).</p>
+    <p>Ne double-cliquez pas sur <code>index.html</code> : le navigateur bloque la lecture des CSV.
+       Passez par <code>./lancer.sh</code> ou <code>python3 -m http.server</code>, puis ouvrez <code>http://localhost:8000</code>.</p>
+  </div>
+  <div id="contenu"></div>
+</main>
+
+<footer>Hackathon ensIIE 2026, projet 3. Données internes fictives fournies par l'école.
+  Le filtre filière s'applique aux indicateurs marqués « par filière » dans le catalogue.</footer>
+
+<script src="js/indicateurs.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
