@@ -1,0 +1,97 @@
+annee,pays,zone,sortants,entrants,programme_principal,double_diplome
+2020,Allemagne,Europe,0,0,Erasmus+,False
+2020,Espagne,Europe,0,0,Erasmus+,False
+2020,Italie,Europe,2,1,double diplôme,False
+2020,Suède,Europe,0,4,Erasmus+,False
+2020,Finlande,Europe,0,0,Erasmus+,False
+2020,Pologne,Europe,5,1,Erasmus+,False
+2020,Canada,hors Europe,0,0,double diplôme,True
+2020,Japon,hors Europe,2,4,double diplôme,False
+2020,Corée du Sud,hors Europe,0,0,double diplôme,False
+2020,Brésil,hors Europe,4,5,accord bilatéral,True
+2020,Maroc,hors Europe,3,2,accord bilatéral,False
+2020,Tunisie,hors Europe,6,0,double diplôme,False
+2020,Liban,hors Europe,0,0,stage,False
+2020,Vietnam,hors Europe,1,3,accord bilatéral,False
+2020,Inde,hors Europe,0,0,stage,False
+2020,Chine,hors Europe,0,0,Erasmus+,False
+2021,Allemagne,Europe,1,2,Erasmus+,True
+2021,Espagne,Europe,4,2,double diplôme,False
+2021,Italie,Europe,4,4,Erasmus+,True
+2021,Suède,Europe,4,2,double diplôme,False
+2021,Finlande,Europe,0,2,accord bilatéral,True
+2021,Pologne,Europe,2,3,accord bilatéral,True
+2021,Canada,hors Europe,5,0,double diplôme,False
+2021,Japon,hors Europe,1,2,accord bilatéral,False
+2021,Corée du Sud,hors Europe,5,1,Erasmus+,False
+2021,Brésil,hors Europe,3,1,Erasmus+,False
+2021,Maroc,hors Europe,3,3,accord bilatéral,False
+2021,Tunisie,hors Europe,3,0,stage,True
+2021,Liban,hors Europe,2,0,accord bilatéral,True
+2021,Vietnam,hors Europe,4,4,double diplôme,True
+2021,Inde,hors Europe,1,4,accord bilatéral,False
+2021,Chine,hors Europe,4,0,accord bilatéral,True
+2022,Allemagne,Europe,8,5,Erasmus+,False
+2022,Espagne,Europe,1,1,double diplôme,False
+2022,Italie,Europe,8,1,stage,False
+2022,Suède,Europe,2,1,accord bilatéral,True
+2022,Finlande,Europe,4,3,Erasmus+,False
+2022,Pologne,Europe,6,6,double diplôme,True
+2022,Canada,hors Europe,8,3,stage,False
+2022,Japon,hors Europe,4,4,accord bilatéral,False
+2022,Corée du Sud,hors Europe,3,4,double diplôme,False
+2022,Brésil,hors Europe,4,3,Erasmus+,False
+2022,Maroc,hors Europe,2,2,Erasmus+,True
+2022,Tunisie,hors Europe,4,3,Erasmus+,False
+2022,Liban,hors Europe,7,4,stage,False
+2022,Vietnam,hors Europe,7,2,Erasmus+,False
+2022,Inde,hors Europe,2,2,Erasmus+,False
+2022,Chine,hors Europe,6,2,double diplôme,False
+2023,Allemagne,Europe,3,0,Erasmus+,True
+2023,Espagne,Europe,4,3,Erasmus+,False
+2023,Italie,Europe,2,5,accord bilatéral,False
+2023,Suède,Europe,6,1,stage,False
+2023,Finlande,Europe,1,4,Erasmus+,False
+2023,Pologne,Europe,2,2,Erasmus+,True
+2023,Canada,hors Europe,3,5,accord bilatéral,True
+2023,Japon,hors Europe,5,6,double diplôme,False
+2023,Corée du Sud,hors Europe,4,6,accord bilatéral,True
+2023,Brésil,hors Europe,7,3,accord bilatéral,False
+2023,Maroc,hors Europe,8,5,Erasmus+,True
+2023,Tunisie,hors Europe,1,2,Erasmus+,False
+2023,Liban,hors Europe,4,5,Erasmus+,True
+2023,Vietnam,hors Europe,2,5,double diplôme,True
+2023,Inde,hors Europe,8,5,Erasmus+,False
+2023,Chine,hors Europe,7,5,double diplôme,True
+2024,Allemagne,Europe,3,5,stage,True
+2024,Espagne,Europe,4,1,accord bilatéral,False
+2024,Italie,Europe,8,6,accord bilatéral,False
+2024,Suède,Europe,6,3,stage,True
+2024,Finlande,Europe,4,1,Erasmus+,False
+2024,Pologne,Europe,7,1,accord bilatéral,False
+2024,Canada,hors Europe,6,2,stage,False
+2024,Japon,hors Europe,7,5,stage,False
+2024,Corée du Sud,hors Europe,8,6,accord bilatéral,True
+2024,Brésil,hors Europe,7,1,accord bilatéral,True
+2024,Maroc,hors Europe,1,6,stage,False
+2024,Tunisie,hors Europe,7,5,stage,True
+2024,Liban,hors Europe,7,2,Erasmus+,True
+2024,Vietnam,hors Europe,8,2,accord bilatéral,False
+2024,Inde,hors Europe,2,6,Erasmus+,False
+2024,Chine,hors Europe,4,2,accord bilatéral,True
+2025,Allemagne,Europe,4,3,accord bilatéral,False
+2025,Espagne,Europe,6,3,Erasmus+,False
+2025,Italie,Europe,6,0,double diplôme,False
+2025,Suède,Europe,2,1,accord bilatéral,False
+2025,Finlande,Europe,7,0,double diplôme,False
+2025,Pologne,Europe,2,5,stage,False
+2025,Canada,hors Europe,1,2,accord bilatéral,False
+2025,Japon,hors Europe,6,6,stage,True
+2025,Corée du Sud,hors Europe,2,3,stage,False
+2025,Brésil,hors Europe,1,2,Erasmus+,True
+2025,Maroc,hors Europe,7,5,double diplôme,False
+2025,Tunisie,hors Europe,2,5,Erasmus+,False
+2025,Liban,hors Europe,6,1,double diplôme,True
+2025,Vietnam,hors Europe,1,5,stage,False
+2025,Inde,hors Europe,7,2,stage,True
+2025,Chine,hors Europe,3,5,stage,False

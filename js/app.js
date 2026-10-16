@@ -154,9 +154,9 @@ function pageVueEnsemble() {
   const cles = INDICATEURS.filter(i => INDICATEURS_CLES.includes(i.nom));
   if (!cles.includes(etat.choisi)) etat.choisi = cles[1];
   return {
-    html: `<h2>Points d'attention</h2>${blocAlertes()}
-      <h2>Santé des six axes</h2><div class="grille">${axes}</div>
-      <h2>Indicateurs clés ${etat.annee}</h2><p class="aide">Cliquez sur un indicateur pour afficher son évolution.</p>
+    html: `<h2>Alertes</h2>${blocAlertes()}
+      <h2>Axes</h2><div class="grille">${axes}</div>
+      <h2>Indicateurs clés ${etat.annee}</h2>
       <div class="grille">${cles.map(i => carteKPI(i, true)).join("")}</div>
       <h2>Évolution</h2><div class="graphiques">${cadreGraphique("g-evolution", etat.choisi.nom, true)}</div>`,
     dessiner: () => courbeIndicateur("g-evolution", etat.choisi),
@@ -169,7 +169,7 @@ function pageAxe(axe) {
   const an = etat.annee;
   const extra = GRAPHIQUES_AXE[axe](an);
   return {
-    html: `<h2>${axe} · ${an}</h2><p class="aide">Cliquez sur un indicateur pour afficher son évolution.</p>
+    html: `<h2>${axe} · ${an}</h2>
       <div class="grille">${inds.map(i => carteKPI(i)).join("")}</div>
       <h2>Analyse</h2><div class="graphiques">
         ${cadreGraphique("g-evolution", `Évolution : ${etat.choisi.nom}`)}

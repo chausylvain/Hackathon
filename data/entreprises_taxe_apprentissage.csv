@@ -1,0 +1,132 @@
+annee,entreprise_id,entreprise,secteur,taille,departement,montant_eur
+2023,E002,Norlab,Conseil et ESN,PME,93,1430
+2024,E002,Norlab,Conseil et ESN,PME,93,1600
+2025,E002,Norlab,Conseil et ESN,PME,93,1170
+2022,E004,Orisoft,Santé,ETI,75,5230
+2023,E004,Orisoft,Santé,ETI,75,6140
+2024,E004,Orisoft,Santé,ETI,75,800
+2025,E004,Orisoft,Santé,ETI,75,940
+2022,E005,Silnet,Énergie,Grande entreprise,78,13850
+2023,E005,Silnet,Énergie,Grande entreprise,78,14450
+2024,E005,Silnet,Énergie,Grande entreprise,78,16280
+2025,E005,Silnet,Énergie,Grande entreprise,78,17650
+2023,E006,Kalnova,Santé,Grande entreprise,31,19300
+2024,E006,Kalnova,Santé,Grande entreprise,31,15980
+2025,E006,Kalnova,Santé,Grande entreprise,31,17230
+2021,E007,Temdata,Énergie,TPE,93,250
+2022,E007,Temdata,Énergie,TPE,93,320
+2023,E007,Temdata,Énergie,TPE,93,250
+2024,E007,Temdata,Énergie,TPE,93,320
+2025,E007,Temdata,Énergie,TPE,93,310
+2022,E008,Briware,Télécoms,Grande entreprise,69,16120
+2023,E008,Briware,Télécoms,Grande entreprise,69,18780
+2024,E008,Briware,Télécoms,Grande entreprise,69,17090
+2025,E008,Briware,Télécoms,Grande entreprise,69,19970
+2023,E010,Cersys,Énergie,ETI,93,6250
+2024,E010,Cersys,Énergie,ETI,93,5080
+2025,E010,Cersys,Énergie,ETI,93,6020
+2020,E011,Voxtech,Télécoms,TPE,31,230
+2021,E011,Voxtech,Télécoms,TPE,31,210
+2022,E011,Voxtech,Télécoms,TPE,31,210
+2023,E011,Voxtech,Télécoms,TPE,31,230
+2024,E011,Voxtech,Télécoms,TPE,31,220
+2025,E011,Voxtech,Télécoms,TPE,31,290
+2021,E014,Arksoft,Conseil et ESN,Grande entreprise,91,9090
+2022,E014,Arksoft,Conseil et ESN,Grande entreprise,91,7140
+2023,E014,Arksoft,Conseil et ESN,Grande entreprise,91,8490
+2024,E014,Arksoft,Conseil et ESN,Grande entreprise,91,9640
+2025,E014,Arksoft,Conseil et ESN,Grande entreprise,91,9460
+2020,E015,Zennet,Commerce,PME,91,1500
+2021,E015,Zennet,Commerce,PME,91,2110
+2022,E015,Zennet,Commerce,PME,91,2060
+2023,E015,Zennet,Commerce,PME,91,2100
+2024,E015,Zennet,Commerce,PME,91,1810
+2025,E015,Zennet,Commerce,PME,91,2130
+2020,E017,Dordata,Énergie,Grande entreprise,93,15660
+2021,E017,Dordata,Énergie,Grande entreprise,93,15240
+2022,E017,Dordata,Énergie,Grande entreprise,93,16350
+2023,E017,Dordata,Énergie,Grande entreprise,93,14490
+2024,E017,Dordata,Énergie,Grande entreprise,93,13700
+2025,E017,Dordata,Énergie,Grande entreprise,93,17460
+2020,E019,Galworks,Transport,ETI,31,4390
+2021,E019,Galworks,Transport,ETI,31,5150
+2022,E019,Galworks,Transport,ETI,31,4610
+2023,E019,Galworks,Transport,ETI,31,4350
+2024,E019,Galworks,Transport,ETI,31,5490
+2025,E019,Galworks,Transport,ETI,31,5490
+2021,E022,Rhelab,Conseil et ESN,Grande entreprise,31,9920
+2022,E022,Rhelab,Conseil et ESN,Grande entreprise,31,11280
+2023,E022,Rhelab,Conseil et ESN,Grande entreprise,31,10520
+2024,E022,Rhelab,Conseil et ESN,Grande entreprise,31,11060
+2025,E022,Rhelab,Conseil et ESN,Grande entreprise,31,10580
+2022,E023,Tallogic,Industrie,ETI,78,4260
+2023,E023,Tallogic,Industrie,ETI,78,4290
+2024,E023,Tallogic,Industrie,ETI,78,3820
+2025,E023,Tallogic,Industrie,ETI,78,5030
+2023,E024,Uxsoft,Conseil et ESN,TPE,93,320
+2024,E024,Uxsoft,Conseil et ESN,TPE,93,300
+2025,E024,Uxsoft,Conseil et ESN,TPE,93,330
+2022,E025,Yolnet,Santé,Grande entreprise,31,18690
+2023,E025,Yolnet,Santé,Grande entreprise,31,18610
+2024,E025,Yolnet,Santé,Grande entreprise,31,20630
+2025,E025,Yolnet,Santé,Grande entreprise,31,17130
+2020,E026,Wennova,Énergie,ETI,92,3610
+2021,E026,Wennova,Énergie,ETI,92,3340
+2022,E026,Wennova,Énergie,ETI,92,3540
+2023,E026,Wennova,Énergie,ETI,92,4050
+2024,E026,Wennova,Énergie,ETI,92,3850
+2025,E026,Wennova,Énergie,ETI,92,4450
+2020,E027,Nexdata,Banque et assurance,Grande entreprise,92,15150
+2021,E027,Nexdata,Banque et assurance,Grande entreprise,92,20370
+2022,E027,Nexdata,Banque et assurance,Grande entreprise,92,20170
+2023,E027,Nexdata,Banque et assurance,Grande entreprise,92,20900
+2024,E027,Nexdata,Banque et assurance,Grande entreprise,92,23440
+2025,E027,Nexdata,Banque et assurance,Grande entreprise,92,19670
+2022,E028,Obrware,Conseil et ESN,Grande entreprise,93,16500
+2023,E028,Obrware,Conseil et ESN,Grande entreprise,93,19180
+2024,E028,Obrware,Conseil et ESN,Grande entreprise,93,16160
+2025,E028,Obrware,Conseil et ESN,Grande entreprise,93,20650
+2020,E029,Pelworks,Secteur public,ETI,69,2320
+2021,E029,Pelworks,Secteur public,ETI,69,3140
+2022,E029,Pelworks,Secteur public,ETI,69,3210
+2023,E029,Pelworks,Secteur public,ETI,69,2580
+2024,E029,Pelworks,Secteur public,ETI,69,3120
+2025,E029,Pelworks,Secteur public,ETI,69,3230
+2022,E031,Alttech Groupe,Conseil et ESN,Grande entreprise,78,14290
+2023,E031,Alttech Groupe,Conseil et ESN,Grande entreprise,78,12470
+2024,E031,Alttech Groupe,Conseil et ESN,Grande entreprise,78,13640
+2025,E031,Alttech Groupe,Conseil et ESN,Grande entreprise,78,14770
+2021,E033,Vellogic Groupe,Éditeur logiciel,ETI,93,8830
+2022,E033,Vellogic Groupe,Éditeur logiciel,ETI,93,8160
+2023,E033,Vellogic Groupe,Éditeur logiciel,ETI,93,8410
+2024,E033,Vellogic Groupe,Éditeur logiciel,ETI,93,9440
+2025,E033,Vellogic Groupe,Éditeur logiciel,ETI,93,8570
+2020,E034,Orisoft Groupe,Éditeur logiciel,ETI,69,7650
+2021,E034,Orisoft Groupe,Éditeur logiciel,ETI,69,6570
+2022,E034,Orisoft Groupe,Éditeur logiciel,ETI,69,7680
+2023,E034,Orisoft Groupe,Éditeur logiciel,ETI,69,7590
+2024,E034,Orisoft Groupe,Éditeur logiciel,ETI,69,9110
+2025,E034,Orisoft Groupe,Éditeur logiciel,ETI,69,8290
+2023,E035,Silnet Groupe,Santé,ETI,44,5740
+2024,E035,Silnet Groupe,Santé,ETI,44,5520
+2025,E035,Silnet Groupe,Santé,ETI,44,5310
+2023,E036,Kalnova Groupe,Santé,Grande entreprise,93,8040
+2024,E036,Kalnova Groupe,Santé,Grande entreprise,93,7890
+2025,E036,Kalnova Groupe,Santé,Grande entreprise,93,8170
+2022,E037,Temdata Groupe,Industrie,PME,31,2210
+2023,E037,Temdata Groupe,Industrie,PME,31,2660
+2024,E037,Temdata Groupe,Industrie,PME,31,2740
+2025,E037,Temdata Groupe,Industrie,PME,31,2630
+2020,E038,Briware Groupe,Santé,PME,75,1150
+2021,E038,Briware Groupe,Santé,PME,75,1410
+2022,E038,Briware Groupe,Santé,PME,75,1570
+2023,E038,Briware Groupe,Santé,PME,75,1590
+2024,E038,Briware Groupe,Santé,PME,75,1740
+2025,E038,Briware Groupe,Santé,PME,75,1790
+2023,E039,Lumworks Groupe,Secteur public,ETI,31,7040
+2024,E039,Lumworks Groupe,Secteur public,ETI,31,8660
+2025,E039,Lumworks Groupe,Secteur public,ETI,31,7740
+2022,E040,Cersys Groupe,Industrie,TPE,91,270
+2023,E040,Cersys Groupe,Industrie,TPE,91,210
+2024,E040,Cersys Groupe,Industrie,TPE,91,230
+2025,E040,Cersys Groupe,Industrie,TPE,91,290

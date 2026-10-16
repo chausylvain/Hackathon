@@ -1,0 +1,2066 @@
+annee,filiere,type,entreprise_id,entreprise,secteur,duree_mois,gratification_mensuelle_eur,embauche_suite
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,671,False
+2020,FISE,stage,E006,Kalnova,Santé,3,737,True
+2020,FISE,stage,E029,Pelworks,Secteur public,3,1003,True
+2020,FISE,stage,E036,Kalnova Groupe,Santé,4,1386,False
+2020,FISE,stage,E016,Mirnova,Conseil et ESN,5,673,True
+2020,FISE,stage,E028,Obrware,Conseil et ESN,6,1202,False
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1290,False
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1254,False
+2020,FISE,stage,E008,Briware,Télécoms,3,1149,True
+2020,FISE,stage,E026,Wennova,Énergie,5,1040,True
+2020,FISE,stage,E030,Sabsys,Conseil et ESN,6,903,False
+2020,FISE,stage,E007,Temdata,Énergie,5,1103,False
+2020,FISE,stage,E007,Temdata,Énergie,4,1009,False
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1145,True
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,4,790,False
+2020,FISE,stage,E025,Yolnet,Santé,3,1354,False
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1144,False
+2020,FISE,stage,E036,Kalnova Groupe,Santé,4,1197,True
+2020,FISE,stage,E012,Hallab,Commerce,2,874,False
+2020,FISE,stage,E014,Arksoft,Conseil et ESN,6,966,True
+2020,FISE,stage,E035,Silnet Groupe,Santé,6,977,False
+2020,FISE,stage,E006,Kalnova,Santé,6,1363,False
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,5,690,True
+2020,FISE,stage,E029,Pelworks,Secteur public,6,1021,True
+2020,FISE,stage,E006,Kalnova,Santé,4,616,False
+2020,FISE,stage,E007,Temdata,Énergie,3,904,False
+2020,FISE,stage,E029,Pelworks,Secteur public,5,1069,True
+2020,FISE,stage,E032,Norlab Groupe,Industrie,6,859,False
+2020,FISE,stage,E029,Pelworks,Secteur public,6,908,True
+2020,FISE,stage,E019,Galworks,Transport,6,955,False
+2020,FISE,stage,E027,Nexdata,Banque et assurance,4,800,False
+2020,FISE,stage,E038,Briware Groupe,Santé,5,975,False
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,6,734,False
+2020,FISE,stage,E014,Arksoft,Conseil et ESN,2,763,False
+2020,FISE,stage,E023,Tallogic,Industrie,4,1170,False
+2020,FISE,stage,E037,Temdata Groupe,Industrie,5,779,False
+2020,FISE,stage,E005,Silnet,Énergie,4,732,True
+2020,FISE,stage,E029,Pelworks,Secteur public,5,702,True
+2020,FISE,stage,E018,Fenware,Transport,6,915,False
+2020,FISE,stage,E037,Temdata Groupe,Industrie,4,1329,False
+2020,FISE,stage,E007,Temdata,Énergie,5,1154,True
+2020,FISE,stage,E023,Tallogic,Industrie,5,794,False
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,2,1187,False
+2020,FISE,stage,E004,Orisoft,Santé,4,735,False
+2020,FISE,stage,E015,Zennet,Commerce,6,700,False
+2020,FISE,stage,E035,Silnet Groupe,Santé,6,997,True
+2020,FISE,stage,E029,Pelworks,Secteur public,4,1190,False
+2020,FISE,stage,E035,Silnet Groupe,Santé,6,869,True
+2020,FISE,stage,E015,Zennet,Commerce,5,780,False
+2020,FISE,stage,E002,Norlab,Conseil et ESN,6,1305,False
+2020,FISE,stage,E023,Tallogic,Industrie,6,828,False
+2020,FISE,stage,E036,Kalnova Groupe,Santé,6,1004,False
+2020,FISE,stage,E005,Silnet,Énergie,4,1200,False
+2020,FISE,stage,E028,Obrware,Conseil et ESN,2,937,False
+2020,FISE,stage,E008,Briware,Télécoms,6,1313,False
+2020,FISE,stage,E035,Silnet Groupe,Santé,6,795,False
+2020,FISE,stage,E010,Cersys,Énergie,4,1290,False
+2020,FISE,stage,E028,Obrware,Conseil et ESN,2,685,True
+2020,FISE,stage,E023,Tallogic,Industrie,5,1094,False
+2020,FISE,stage,E017,Dordata,Énergie,6,725,False
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,4,624,True
+2020,FISE,stage,E036,Kalnova Groupe,Santé,2,693,False
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,5,1081,False
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,6,678,True
+2020,FISE,stage,E016,Mirnova,Conseil et ESN,4,1317,True
+2020,FISE,stage,E009,Lumworks,Transport,2,1209,False
+2020,FISE,stage,E014,Arksoft,Conseil et ESN,5,1101,True
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,2,1261,True
+2020,FISE,stage,E038,Briware Groupe,Santé,6,1043,False
+2020,FISE,stage,E025,Yolnet,Santé,6,744,True
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,3,719,False
+2020,FISE,stage,E037,Temdata Groupe,Industrie,6,1332,False
+2020,FISE,stage,E009,Lumworks,Transport,6,1236,False
+2020,FISE,stage,E008,Briware,Télécoms,3,672,False
+2020,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,1301,True
+2020,FISE,stage,E015,Zennet,Commerce,5,649,False
+2020,FISE,stage,E029,Pelworks,Secteur public,6,678,True
+2020,FISE,stage,E029,Pelworks,Secteur public,3,942,True
+2020,FISE,stage,E006,Kalnova,Santé,6,1036,True
+2020,FISE,stage,E008,Briware,Télécoms,2,880,True
+2020,FISE,stage,E019,Galworks,Transport,6,713,False
+2020,FISE,stage,E037,Temdata Groupe,Industrie,4,806,False
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,6,681,True
+2020,FISE,stage,E019,Galworks,Transport,6,660,False
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,2,1062,False
+2020,FISE,stage,E007,Temdata,Énergie,4,941,False
+2020,FISE,stage,E037,Temdata Groupe,Industrie,6,848,False
+2020,FISE,stage,E027,Nexdata,Banque et assurance,6,1019,False
+2020,FISE,stage,E011,Voxtech,Télécoms,4,627,False
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,968,False
+2020,FISE,stage,E018,Fenware,Transport,6,1295,True
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,6,1182,False
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,4,1251,True
+2020,FISE,stage,E011,Voxtech,Télécoms,4,849,False
+2020,FISE,stage,E015,Zennet,Commerce,3,601,True
+2020,FISE,stage,E040,Cersys Groupe,Industrie,6,870,True
+2020,FISE,stage,E005,Silnet,Énergie,6,698,True
+2020,FISE,stage,E007,Temdata,Énergie,6,939,False
+2020,FISE,stage,E010,Cersys,Énergie,5,1140,False
+2020,FISE,stage,E016,Mirnova,Conseil et ESN,6,1258,False
+2020,FISE,stage,E017,Dordata,Énergie,6,962,True
+2020,FISE,stage,E027,Nexdata,Banque et assurance,5,886,False
+2020,FISE,stage,E003,Vellogic,Banque et assurance,5,1188,False
+2020,FISE,stage,E029,Pelworks,Secteur public,6,983,False
+2020,FISE,stage,E025,Yolnet,Santé,5,635,True
+2020,FISE,stage,E032,Norlab Groupe,Industrie,6,835,False
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,6,643,False
+2020,FISE,stage,E004,Orisoft,Santé,5,809,True
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,6,1362,True
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,3,774,True
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,3,639,False
+2020,FISE,stage,E035,Silnet Groupe,Santé,6,1368,False
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,2,1140,False
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1093,True
+2020,FISE,stage,E014,Arksoft,Conseil et ESN,2,1299,True
+2020,FISE,stage,E004,Orisoft,Santé,6,1398,False
+2020,FISE,stage,E003,Vellogic,Banque et assurance,6,1234,False
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1188,False
+2020,FISE,stage,E021,Quotech,Industrie,3,952,False
+2020,FISE,stage,E005,Silnet,Énergie,6,619,False
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,4,927,False
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1267,False
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,2,931,True
+2020,FISE,stage,E027,Nexdata,Banque et assurance,6,1344,False
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,6,917,True
+2020,FISE,stage,E007,Temdata,Énergie,5,1372,False
+2020,FISE,stage,E014,Arksoft,Conseil et ESN,5,952,False
+2020,FISE,stage,E002,Norlab,Conseil et ESN,6,600,False
+2020,FISE,stage,E017,Dordata,Énergie,2,1237,False
+2020,FISE,stage,E007,Temdata,Énergie,4,1370,False
+2020,FISE,stage,E036,Kalnova Groupe,Santé,6,720,True
+2020,FISE,stage,E002,Norlab,Conseil et ESN,6,1241,True
+2020,FISE,stage,E003,Vellogic,Banque et assurance,2,754,False
+2020,FISE,stage,E040,Cersys Groupe,Industrie,4,912,True
+2020,FISE,stage,E032,Norlab Groupe,Industrie,2,893,False
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,4,1041,True
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,4,674,False
+2020,FISE,stage,E036,Kalnova Groupe,Santé,2,1259,True
+2020,FISE,stage,E015,Zennet,Commerce,3,971,True
+2020,FISE,stage,E007,Temdata,Énergie,6,1295,True
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,3,1041,False
+2020,FISE,stage,E010,Cersys,Énergie,5,801,False
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,4,752,False
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,4,978,False
+2020,FISE,stage,E010,Cersys,Énergie,6,708,False
+2020,FISE,stage,E010,Cersys,Énergie,6,1385,False
+2020,FISE,stage,E036,Kalnova Groupe,Santé,6,876,False
+2020,FISE,stage,E014,Arksoft,Conseil et ESN,6,820,False
+2020,FISE,stage,E003,Vellogic,Banque et assurance,2,1333,True
+2020,FISE,stage,E011,Voxtech,Télécoms,5,914,False
+2020,FISE,stage,E008,Briware,Télécoms,6,682,True
+2020,FISE,stage,E008,Briware,Télécoms,4,1374,False
+2020,FISE,stage,E006,Kalnova,Santé,2,983,True
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,3,1377,False
+2020,FISE,stage,E017,Dordata,Énergie,6,637,True
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,6,948,False
+2020,FISE,stage,E023,Tallogic,Industrie,6,762,False
+2020,FISE,stage,E010,Cersys,Énergie,2,1387,True
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1272,True
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,5,1382,False
+2020,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,867,False
+2020,FISE,stage,E013,Pyrlogic,Énergie,3,634,False
+2020,FISE,stage,E036,Kalnova Groupe,Santé,6,1173,False
+2020,FISE,stage,E014,Arksoft,Conseil et ESN,5,1151,True
+2020,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,873,False
+2020,FISE,stage,E036,Kalnova Groupe,Santé,6,1350,False
+2020,FISE,stage,E025,Yolnet,Santé,6,875,False
+2020,FISE,stage,E015,Zennet,Commerce,6,1210,False
+2020,FISE,stage,E036,Kalnova Groupe,Santé,6,1229,False
+2020,FISE,stage,E007,Temdata,Énergie,6,641,False
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,5,716,False
+2020,FISE,stage,E025,Yolnet,Santé,5,696,False
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,884,True
+2020,FISE,stage,E026,Wennova,Énergie,2,794,True
+2020,FISE,stage,E025,Yolnet,Santé,3,822,True
+2020,FISE,stage,E021,Quotech,Industrie,6,607,True
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,979,True
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1356,True
+2020,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,3,1160,True
+2020,FISE,stage,E019,Galworks,Transport,4,1200,True
+2020,FISE,stage,E040,Cersys Groupe,Industrie,6,948,False
+2020,FISE,stage,E010,Cersys,Énergie,2,917,False
+2020,FISE,stage,E004,Orisoft,Santé,6,772,False
+2020,FISE,stage,E032,Norlab Groupe,Industrie,6,1058,False
+2020,FISE,stage,E007,Temdata,Énergie,5,809,True
+2020,FISE,stage,E011,Voxtech,Télécoms,6,791,False
+2020,FISE,stage,E017,Dordata,Énergie,6,1282,True
+2020,FISE,stage,E011,Voxtech,Télécoms,2,1284,False
+2020,FISE,stage,E038,Briware Groupe,Santé,3,663,True
+2020,FISE,stage,E002,Norlab,Conseil et ESN,6,1218,False
+2020,FISE,stage,E030,Sabsys,Conseil et ESN,6,925,False
+2020,FISE,stage,E027,Nexdata,Banque et assurance,2,1356,False
+2020,FISE,stage,E030,Sabsys,Conseil et ESN,6,1308,True
+2020,FISE,stage,E006,Kalnova,Santé,2,1104,True
+2020,FISE,stage,E020,Istersys,Éditeur logiciel,6,971,False
+2020,FISE,stage,E028,Obrware,Conseil et ESN,2,1208,False
+2020,FISE,stage,E015,Zennet,Commerce,6,945,True
+2020,FISE,stage,E037,Temdata Groupe,Industrie,2,695,False
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,2,1164,False
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,3,797,True
+2020,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1331,False
+2020,FISE,stage,E027,Nexdata,Banque et assurance,4,1091,True
+2020,FISE,stage,E002,Norlab,Conseil et ESN,6,826,True
+2020,FISE,stage,E038,Briware Groupe,Santé,4,1220,True
+2020,FISE,stage,E036,Kalnova Groupe,Santé,6,1200,False
+2020,FISE,stage,E008,Briware,Télécoms,2,1213,True
+2020,FISE,stage,E028,Obrware,Conseil et ESN,6,813,True
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,5,1370,False
+2020,FISE,stage,E013,Pyrlogic,Énergie,5,1204,False
+2020,FISE,stage,E007,Temdata,Énergie,6,1047,True
+2020,FISE,stage,E004,Orisoft,Santé,2,1384,True
+2020,FISE,stage,E009,Lumworks,Transport,4,1107,True
+2020,FISE,stage,E013,Pyrlogic,Énergie,5,641,True
+2020,FISE,stage,E028,Obrware,Conseil et ESN,2,954,True
+2020,FISE,stage,E022,Rhelab,Conseil et ESN,6,1242,True
+2020,FISE,stage,E011,Voxtech,Télécoms,3,1376,True
+2020,FISE,stage,E037,Temdata Groupe,Industrie,5,626,True
+2020,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1388,False
+2020,FISE,stage,E007,Temdata,Énergie,6,1023,False
+2020,FISE,stage,E027,Nexdata,Banque et assurance,5,1373,False
+2020,FISE,stage,E026,Wennova,Énergie,2,1318,True
+2020,FISE,stage,E010,Cersys,Énergie,3,884,True
+2020,FISE,stage,E035,Silnet Groupe,Santé,3,622,False
+2020,FISE,stage,E024,Uxsoft,Conseil et ESN,2,639,True
+2020,FISE,stage,E010,Cersys,Énergie,6,764,False
+2020,FISE,stage,E017,Dordata,Énergie,4,733,True
+2020,FISE,stage,E005,Silnet,Énergie,5,1371,False
+2020,FISE,stage,E002,Norlab,Conseil et ESN,5,678,False
+2020,FISE,stage,E019,Galworks,Transport,3,1251,True
+2020,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1270,True
+2020,FISEA,alternance,E006,Kalnova,Santé,12,1322,True
+2020,FISEA,alternance,E020,Istersys,Éditeur logiciel,12,971,True
+2020,FISEA,alternance,E023,Tallogic,Industrie,12,1179,True
+2020,FISEA,alternance,E005,Silnet,Énergie,12,694,False
+2020,FISEA,alternance,E007,Temdata,Énergie,12,1314,False
+2020,FISEA,alternance,E026,Wennova,Énergie,12,1164,False
+2020,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,779,False
+2020,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1397,False
+2020,FISEA,alternance,E036,Kalnova Groupe,Santé,12,721,False
+2020,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1058,False
+2020,FISEA,alternance,E026,Wennova,Énergie,12,1286,False
+2020,FISEA,alternance,E007,Temdata,Énergie,12,739,False
+2020,FISEA,alternance,E030,Sabsys,Conseil et ESN,12,1314,False
+2020,FISEA,alternance,E007,Temdata,Énergie,12,1163,True
+2020,FISEA,alternance,E026,Wennova,Énergie,12,1105,True
+2020,FISEA,alternance,E023,Tallogic,Industrie,12,835,False
+2020,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1017,False
+2020,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1153,True
+2020,FISEA,alternance,E008,Briware,Télécoms,12,1303,False
+2020,FISEA,alternance,E004,Orisoft,Santé,12,1106,False
+2020,FISEA,alternance,E006,Kalnova,Santé,12,905,False
+2020,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1117,False
+2020,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1016,False
+2020,FISEA,alternance,E023,Tallogic,Industrie,12,959,True
+2020,FISEA,alternance,E006,Kalnova,Santé,12,850,False
+2020,FISEA,alternance,E025,Yolnet,Santé,12,1028,False
+2020,FISEA,alternance,E006,Kalnova,Santé,12,786,False
+2020,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,714,False
+2020,FISEA,alternance,E036,Kalnova Groupe,Santé,12,907,False
+2020,FISEA,alternance,E026,Wennova,Énergie,12,1195,False
+2020,FISEA,alternance,E005,Silnet,Énergie,12,755,False
+2020,FISEA,alternance,E013,Pyrlogic,Énergie,12,1020,False
+2020,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,712,False
+2020,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1156,False
+2020,FISEA,alternance,E018,Fenware,Transport,12,706,False
+2020,FISEA,alternance,E035,Silnet Groupe,Santé,12,1070,False
+2020,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,739,True
+2020,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,1368,False
+2020,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,964,True
+2020,FISEA,alternance,E019,Galworks,Transport,12,702,False
+2020,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,1396,False
+2020,FISEA,alternance,E010,Cersys,Énergie,12,914,False
+2020,FISEA,alternance,E015,Zennet,Commerce,12,763,True
+2020,FISEA,alternance,E017,Dordata,Énergie,12,992,False
+2020,FISEA,alternance,E019,Galworks,Transport,12,1296,False
+2020,Master,stage,E008,Briware,Télécoms,6,925,False
+2020,Master,stage,E039,Lumworks Groupe,Secteur public,6,684,False
+2020,Master,stage,E016,Mirnova,Conseil et ESN,2,909,True
+2020,Master,stage,E004,Orisoft,Santé,6,1346,True
+2020,Master,stage,E029,Pelworks,Secteur public,4,601,True
+2020,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,6,726,False
+2020,Master,stage,E019,Galworks,Transport,6,694,False
+2020,Master,stage,E037,Temdata Groupe,Industrie,3,1080,False
+2020,Master,stage,E031,Alttech Groupe,Conseil et ESN,2,1246,False
+2020,Master,stage,E039,Lumworks Groupe,Secteur public,4,692,True
+2020,Master,stage,E031,Alttech Groupe,Conseil et ESN,6,706,False
+2020,Master,stage,E038,Briware Groupe,Santé,6,922,False
+2020,Master,stage,E033,Vellogic Groupe,Éditeur logiciel,6,781,False
+2020,Master,stage,E004,Orisoft,Santé,6,691,False
+2020,Master,stage,E028,Obrware,Conseil et ESN,3,739,False
+2020,Master,stage,E007,Temdata,Énergie,6,1242,False
+2020,Master,stage,E037,Temdata Groupe,Industrie,6,902,False
+2020,Master,stage,E011,Voxtech,Télécoms,6,1025,False
+2020,Master,stage,E010,Cersys,Énergie,2,831,True
+2020,Master,stage,E016,Mirnova,Conseil et ESN,4,1327,False
+2020,Master,stage,E019,Galworks,Transport,5,1015,False
+2020,Master,stage,E025,Yolnet,Santé,6,721,True
+2020,Master,stage,E002,Norlab,Conseil et ESN,5,944,False
+2020,Master,stage,E036,Kalnova Groupe,Santé,2,1108,True
+2021,FISE,stage,E036,Kalnova Groupe,Santé,6,1324,False
+2021,FISE,stage,E037,Temdata Groupe,Industrie,6,1143,False
+2021,FISE,stage,E014,Arksoft,Conseil et ESN,2,859,False
+2021,FISE,stage,E031,Alttech Groupe,Conseil et ESN,3,1357,False
+2021,FISE,stage,E020,Istersys,Éditeur logiciel,3,807,False
+2021,FISE,stage,E018,Fenware,Transport,3,1158,False
+2021,FISE,stage,E012,Hallab,Commerce,6,993,True
+2021,FISE,stage,E040,Cersys Groupe,Industrie,2,971,True
+2021,FISE,stage,E032,Norlab Groupe,Industrie,4,741,False
+2021,FISE,stage,E005,Silnet,Énergie,4,1373,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,4,1108,False
+2021,FISE,stage,E017,Dordata,Énergie,6,661,False
+2021,FISE,stage,E004,Orisoft,Santé,4,1058,False
+2021,FISE,stage,E016,Mirnova,Conseil et ESN,5,1247,False
+2021,FISE,stage,E002,Norlab,Conseil et ESN,6,896,False
+2021,FISE,stage,E025,Yolnet,Santé,4,1440,False
+2021,FISE,stage,E016,Mirnova,Conseil et ESN,6,1292,False
+2021,FISE,stage,E021,Quotech,Industrie,3,841,False
+2021,FISE,stage,E025,Yolnet,Santé,5,691,False
+2021,FISE,stage,E003,Vellogic,Banque et assurance,6,924,False
+2021,FISE,stage,E019,Galworks,Transport,6,862,False
+2021,FISE,stage,E029,Pelworks,Secteur public,5,1160,False
+2021,FISE,stage,E010,Cersys,Énergie,2,1161,False
+2021,FISE,stage,E023,Tallogic,Industrie,3,685,False
+2021,FISE,stage,E038,Briware Groupe,Santé,2,1391,True
+2021,FISE,stage,E035,Silnet Groupe,Santé,2,1033,False
+2021,FISE,stage,E026,Wennova,Énergie,5,945,False
+2021,FISE,stage,E017,Dordata,Énergie,6,1086,False
+2021,FISE,stage,E035,Silnet Groupe,Santé,6,1095,False
+2021,FISE,stage,E022,Rhelab,Conseil et ESN,4,1240,False
+2021,FISE,stage,E001,Alttech,Conseil et ESN,4,686,False
+2021,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,2,1378,True
+2021,FISE,stage,E026,Wennova,Énergie,6,834,False
+2021,FISE,stage,E012,Hallab,Commerce,6,978,False
+2021,FISE,stage,E013,Pyrlogic,Énergie,5,1409,True
+2021,FISE,stage,E035,Silnet Groupe,Santé,4,780,False
+2021,FISE,stage,E014,Arksoft,Conseil et ESN,6,1307,False
+2021,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,959,False
+2021,FISE,stage,E037,Temdata Groupe,Industrie,6,674,False
+2021,FISE,stage,E022,Rhelab,Conseil et ESN,6,915,False
+2021,FISE,stage,E002,Norlab,Conseil et ESN,2,1388,True
+2021,FISE,stage,E019,Galworks,Transport,6,856,False
+2021,FISE,stage,E010,Cersys,Énergie,4,688,False
+2021,FISE,stage,E036,Kalnova Groupe,Santé,2,778,False
+2021,FISE,stage,E006,Kalnova,Santé,6,904,False
+2021,FISE,stage,E019,Galworks,Transport,4,1307,True
+2021,FISE,stage,E040,Cersys Groupe,Industrie,3,1185,False
+2021,FISE,stage,E038,Briware Groupe,Santé,5,1259,False
+2021,FISE,stage,E022,Rhelab,Conseil et ESN,5,1068,False
+2021,FISE,stage,E017,Dordata,Énergie,5,1054,False
+2021,FISE,stage,E026,Wennova,Énergie,4,1099,False
+2021,FISE,stage,E017,Dordata,Énergie,5,1267,True
+2021,FISE,stage,E004,Orisoft,Santé,6,1005,False
+2021,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,911,False
+2021,FISE,stage,E024,Uxsoft,Conseil et ESN,5,980,False
+2021,FISE,stage,E023,Tallogic,Industrie,4,1426,True
+2021,FISE,stage,E024,Uxsoft,Conseil et ESN,6,782,False
+2021,FISE,stage,E003,Vellogic,Banque et assurance,6,1207,False
+2021,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1206,False
+2021,FISE,stage,E011,Voxtech,Télécoms,2,1073,False
+2021,FISE,stage,E019,Galworks,Transport,6,905,True
+2021,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,3,841,True
+2021,FISE,stage,E002,Norlab,Conseil et ESN,6,1002,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,4,1057,False
+2021,FISE,stage,E037,Temdata Groupe,Industrie,5,1150,True
+2021,FISE,stage,E019,Galworks,Transport,3,739,True
+2021,FISE,stage,E015,Zennet,Commerce,2,992,False
+2021,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,669,False
+2021,FISE,stage,E040,Cersys Groupe,Industrie,5,907,True
+2021,FISE,stage,E027,Nexdata,Banque et assurance,2,1019,False
+2021,FISE,stage,E005,Silnet,Énergie,6,1436,False
+2021,FISE,stage,E001,Alttech,Conseil et ESN,6,875,False
+2021,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,2,648,False
+2021,FISE,stage,E023,Tallogic,Industrie,6,944,False
+2021,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,3,1389,True
+2021,FISE,stage,E018,Fenware,Transport,6,1455,True
+2021,FISE,stage,E002,Norlab,Conseil et ESN,5,698,False
+2021,FISE,stage,E008,Briware,Télécoms,4,885,True
+2021,FISE,stage,E023,Tallogic,Industrie,6,852,True
+2021,FISE,stage,E006,Kalnova,Santé,2,722,False
+2021,FISE,stage,E036,Kalnova Groupe,Santé,5,1152,False
+2021,FISE,stage,E036,Kalnova Groupe,Santé,5,960,False
+2021,FISE,stage,E002,Norlab,Conseil et ESN,6,1203,True
+2021,FISE,stage,E005,Silnet,Énergie,2,879,False
+2021,FISE,stage,E038,Briware Groupe,Santé,3,810,True
+2021,FISE,stage,E019,Galworks,Transport,6,848,True
+2021,FISE,stage,E027,Nexdata,Banque et assurance,6,1370,False
+2021,FISE,stage,E040,Cersys Groupe,Industrie,5,1022,True
+2021,FISE,stage,E024,Uxsoft,Conseil et ESN,6,996,True
+2021,FISE,stage,E014,Arksoft,Conseil et ESN,6,1284,True
+2021,FISE,stage,E040,Cersys Groupe,Industrie,6,656,False
+2021,FISE,stage,E023,Tallogic,Industrie,4,767,True
+2021,FISE,stage,E004,Orisoft,Santé,6,794,True
+2021,FISE,stage,E017,Dordata,Énergie,4,1314,True
+2021,FISE,stage,E040,Cersys Groupe,Industrie,6,701,False
+2021,FISE,stage,E007,Temdata,Énergie,6,796,False
+2021,FISE,stage,E036,Kalnova Groupe,Santé,6,865,False
+2021,FISE,stage,E010,Cersys,Énergie,4,1287,True
+2021,FISE,stage,E036,Kalnova Groupe,Santé,6,1379,True
+2021,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,895,False
+2021,FISE,stage,E011,Voxtech,Télécoms,5,764,False
+2021,FISE,stage,E038,Briware Groupe,Santé,2,1437,False
+2021,FISE,stage,E017,Dordata,Énergie,3,643,False
+2021,FISE,stage,E009,Lumworks,Transport,4,1152,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,2,689,False
+2021,FISE,stage,E006,Kalnova,Santé,6,1360,False
+2021,FISE,stage,E029,Pelworks,Secteur public,5,1376,False
+2021,FISE,stage,E037,Temdata Groupe,Industrie,4,1074,False
+2021,FISE,stage,E020,Istersys,Éditeur logiciel,6,1133,True
+2021,FISE,stage,E007,Temdata,Énergie,5,1297,True
+2021,FISE,stage,E013,Pyrlogic,Énergie,6,924,False
+2021,FISE,stage,E029,Pelworks,Secteur public,6,955,False
+2021,FISE,stage,E035,Silnet Groupe,Santé,4,981,True
+2021,FISE,stage,E010,Cersys,Énergie,2,1432,False
+2021,FISE,stage,E040,Cersys Groupe,Industrie,3,666,False
+2021,FISE,stage,E040,Cersys Groupe,Industrie,6,654,True
+2021,FISE,stage,E014,Arksoft,Conseil et ESN,6,944,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,4,997,True
+2021,FISE,stage,E026,Wennova,Énergie,3,795,True
+2021,FISE,stage,E028,Obrware,Conseil et ESN,6,1058,True
+2021,FISE,stage,E020,Istersys,Éditeur logiciel,6,765,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,4,836,False
+2021,FISE,stage,E036,Kalnova Groupe,Santé,6,1113,True
+2021,FISE,stage,E004,Orisoft,Santé,3,1042,True
+2021,FISE,stage,E038,Briware Groupe,Santé,2,1283,True
+2021,FISE,stage,E025,Yolnet,Santé,6,1116,False
+2021,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,977,False
+2021,FISE,stage,E010,Cersys,Énergie,3,742,False
+2021,FISE,stage,E004,Orisoft,Santé,4,818,True
+2021,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1318,False
+2021,FISE,stage,E030,Sabsys,Conseil et ESN,4,1038,True
+2021,FISE,stage,E023,Tallogic,Industrie,4,690,False
+2021,FISE,stage,E039,Lumworks Groupe,Secteur public,6,889,False
+2021,FISE,stage,E007,Temdata,Énergie,6,1350,False
+2021,FISE,stage,E037,Temdata Groupe,Industrie,3,1236,False
+2021,FISE,stage,E022,Rhelab,Conseil et ESN,6,1370,False
+2021,FISE,stage,E005,Silnet,Énergie,2,1010,False
+2021,FISE,stage,E024,Uxsoft,Conseil et ESN,3,1215,True
+2021,FISE,stage,E039,Lumworks Groupe,Secteur public,3,1198,False
+2021,FISE,stage,E006,Kalnova,Santé,2,1168,False
+2021,FISE,stage,E037,Temdata Groupe,Industrie,3,1340,False
+2021,FISE,stage,E011,Voxtech,Télécoms,2,886,False
+2021,FISE,stage,E038,Briware Groupe,Santé,5,667,False
+2021,FISE,stage,E005,Silnet,Énergie,2,1436,False
+2021,FISE,stage,E028,Obrware,Conseil et ESN,6,805,False
+2021,FISE,stage,E037,Temdata Groupe,Industrie,6,1017,True
+2021,FISE,stage,E028,Obrware,Conseil et ESN,4,822,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,6,1404,True
+2021,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,4,1017,False
+2021,FISE,stage,E017,Dordata,Énergie,5,653,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,3,646,True
+2021,FISE,stage,E004,Orisoft,Santé,2,1071,False
+2021,FISE,stage,E013,Pyrlogic,Énergie,5,1012,True
+2021,FISE,stage,E015,Zennet,Commerce,4,1306,True
+2021,FISE,stage,E039,Lumworks Groupe,Secteur public,5,869,True
+2021,FISE,stage,E023,Tallogic,Industrie,6,1082,True
+2021,FISE,stage,E023,Tallogic,Industrie,3,723,True
+2021,FISE,stage,E022,Rhelab,Conseil et ESN,6,709,True
+2021,FISE,stage,E022,Rhelab,Conseil et ESN,2,853,False
+2021,FISE,stage,E018,Fenware,Transport,3,903,False
+2021,FISE,stage,E014,Arksoft,Conseil et ESN,4,748,True
+2021,FISE,stage,E007,Temdata,Énergie,6,905,False
+2021,FISE,stage,E036,Kalnova Groupe,Santé,6,1284,False
+2021,FISE,stage,E002,Norlab,Conseil et ESN,6,752,False
+2021,FISE,stage,E019,Galworks,Transport,4,1091,False
+2021,FISE,stage,E031,Alttech Groupe,Conseil et ESN,2,1060,False
+2021,FISE,stage,E014,Arksoft,Conseil et ESN,4,1072,False
+2021,FISE,stage,E040,Cersys Groupe,Industrie,3,1056,False
+2021,FISE,stage,E004,Orisoft,Santé,6,1120,True
+2021,FISE,stage,E013,Pyrlogic,Énergie,5,1019,False
+2021,FISE,stage,E026,Wennova,Énergie,3,1414,False
+2021,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,647,False
+2021,FISE,stage,E019,Galworks,Transport,5,663,False
+2021,FISE,stage,E035,Silnet Groupe,Santé,5,1357,False
+2021,FISE,stage,E025,Yolnet,Santé,4,1377,False
+2021,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1000,False
+2021,FISE,stage,E035,Silnet Groupe,Santé,5,982,False
+2021,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1392,False
+2021,FISE,stage,E015,Zennet,Commerce,5,1212,False
+2021,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,3,1379,False
+2021,FISE,stage,E003,Vellogic,Banque et assurance,3,947,False
+2021,FISE,stage,E021,Quotech,Industrie,6,972,False
+2021,FISE,stage,E011,Voxtech,Télécoms,2,774,False
+2021,FISE,stage,E024,Uxsoft,Conseil et ESN,3,1403,True
+2021,FISE,stage,E006,Kalnova,Santé,6,1005,True
+2021,FISE,stage,E012,Hallab,Commerce,4,1033,False
+2021,FISE,stage,E006,Kalnova,Santé,3,1150,False
+2021,FISE,stage,E001,Alttech,Conseil et ESN,6,1179,True
+2021,FISE,stage,E009,Lumworks,Transport,6,947,False
+2021,FISE,stage,E010,Cersys,Énergie,2,1424,False
+2021,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,4,952,False
+2021,FISE,stage,E017,Dordata,Énergie,2,724,False
+2021,FISE,stage,E003,Vellogic,Banque et assurance,6,819,True
+2021,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,776,True
+2021,FISE,stage,E002,Norlab,Conseil et ESN,4,630,False
+2021,FISE,stage,E030,Sabsys,Conseil et ESN,6,881,True
+2021,FISE,stage,E008,Briware,Télécoms,3,774,False
+2021,FISE,stage,E022,Rhelab,Conseil et ESN,6,1024,False
+2021,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1253,True
+2021,FISE,stage,E004,Orisoft,Santé,6,790,False
+2021,FISE,stage,E015,Zennet,Commerce,6,694,True
+2021,FISE,stage,E028,Obrware,Conseil et ESN,6,1023,True
+2021,FISE,stage,E029,Pelworks,Secteur public,3,1361,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,6,756,True
+2021,FISE,stage,E004,Orisoft,Santé,4,1227,False
+2021,FISE,stage,E040,Cersys Groupe,Industrie,4,716,True
+2021,FISE,stage,E004,Orisoft,Santé,5,731,False
+2021,FISE,stage,E006,Kalnova,Santé,2,667,True
+2021,FISE,stage,E030,Sabsys,Conseil et ESN,2,1170,True
+2021,FISE,stage,E038,Briware Groupe,Santé,5,1412,False
+2021,FISE,stage,E015,Zennet,Commerce,5,797,False
+2021,FISE,stage,E037,Temdata Groupe,Industrie,5,950,False
+2021,FISE,stage,E012,Hallab,Commerce,5,684,False
+2021,FISE,stage,E011,Voxtech,Télécoms,6,1026,True
+2021,FISE,stage,E017,Dordata,Énergie,5,850,False
+2021,FISE,stage,E016,Mirnova,Conseil et ESN,2,1095,False
+2021,FISE,stage,E040,Cersys Groupe,Industrie,2,1138,False
+2021,FISE,stage,E038,Briware Groupe,Santé,6,1244,False
+2021,FISE,stage,E015,Zennet,Commerce,6,1198,False
+2021,FISE,stage,E028,Obrware,Conseil et ESN,5,864,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,3,737,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,6,1143,True
+2021,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,718,False
+2021,FISE,stage,E003,Vellogic,Banque et assurance,4,1160,False
+2021,FISE,stage,E007,Temdata,Énergie,6,649,False
+2021,FISE,stage,E013,Pyrlogic,Énergie,3,966,False
+2021,FISE,stage,E036,Kalnova Groupe,Santé,4,1407,False
+2021,FISE,stage,E002,Norlab,Conseil et ESN,4,803,False
+2021,FISE,stage,E027,Nexdata,Banque et assurance,5,1446,False
+2021,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,4,636,True
+2021,FISE,stage,E007,Temdata,Énergie,3,706,False
+2021,FISEA,alternance,E038,Briware Groupe,Santé,12,992,False
+2021,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,961,False
+2021,FISEA,alternance,E019,Galworks,Transport,12,1122,False
+2021,FISEA,alternance,E010,Cersys,Énergie,12,944,False
+2021,FISEA,alternance,E005,Silnet,Énergie,12,707,False
+2021,FISEA,alternance,E026,Wennova,Énergie,12,986,True
+2021,FISEA,alternance,E003,Vellogic,Banque et assurance,12,1383,True
+2021,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,717,True
+2021,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,894,True
+2021,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1022,False
+2021,FISEA,alternance,E040,Cersys Groupe,Industrie,12,792,True
+2021,FISEA,alternance,E035,Silnet Groupe,Santé,12,660,False
+2021,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1132,False
+2021,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1440,False
+2021,FISEA,alternance,E003,Vellogic,Banque et assurance,12,1390,False
+2021,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,879,False
+2021,FISEA,alternance,E026,Wennova,Énergie,12,1075,True
+2021,FISEA,alternance,E025,Yolnet,Santé,12,685,False
+2021,FISEA,alternance,E029,Pelworks,Secteur public,12,660,False
+2021,FISEA,alternance,E026,Wennova,Énergie,12,735,False
+2021,FISEA,alternance,E017,Dordata,Énergie,12,1226,True
+2021,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,935,True
+2021,FISEA,alternance,E006,Kalnova,Santé,12,1396,False
+2021,FISEA,alternance,E017,Dordata,Énergie,12,1039,True
+2021,FISEA,alternance,E008,Briware,Télécoms,12,820,False
+2021,FISEA,alternance,E025,Yolnet,Santé,12,756,False
+2021,FISEA,alternance,E006,Kalnova,Santé,12,1067,False
+2021,FISEA,alternance,E020,Istersys,Éditeur logiciel,12,1161,False
+2021,FISEA,alternance,E028,Obrware,Conseil et ESN,12,654,True
+2021,FISEA,alternance,E021,Quotech,Industrie,12,1336,True
+2021,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1403,True
+2021,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,719,False
+2021,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,842,False
+2021,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1349,True
+2021,FISEA,alternance,E025,Yolnet,Santé,12,955,False
+2021,FISEA,alternance,E035,Silnet Groupe,Santé,12,650,True
+2021,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,758,True
+2021,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1145,False
+2021,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,943,False
+2021,FISEA,alternance,E038,Briware Groupe,Santé,12,746,True
+2021,FISEA,alternance,E011,Voxtech,Télécoms,12,895,True
+2021,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,1093,False
+2021,FISEA,alternance,E006,Kalnova,Santé,12,818,True
+2021,FISEA,alternance,E040,Cersys Groupe,Industrie,12,733,False
+2021,FISEA,alternance,E015,Zennet,Commerce,12,641,False
+2021,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1277,True
+2021,FISEA,alternance,E011,Voxtech,Télécoms,12,964,False
+2021,FISEA,alternance,E010,Cersys,Énergie,12,677,False
+2021,FISEA,alternance,E015,Zennet,Commerce,12,977,False
+2021,FISEA,alternance,E038,Briware Groupe,Santé,12,832,True
+2021,FISEA,alternance,E025,Yolnet,Santé,12,1177,False
+2021,FISEA,alternance,E019,Galworks,Transport,12,725,False
+2021,FISEA,alternance,E003,Vellogic,Banque et assurance,12,1209,False
+2021,FISEA,alternance,E008,Briware,Télécoms,12,1330,True
+2021,FISEA,alternance,E009,Lumworks,Transport,12,796,False
+2021,FISEA,alternance,E005,Silnet,Énergie,12,904,False
+2021,Master,stage,E024,Uxsoft,Conseil et ESN,6,900,False
+2021,Master,stage,E028,Obrware,Conseil et ESN,6,1253,False
+2021,Master,stage,E022,Rhelab,Conseil et ESN,6,954,False
+2021,Master,stage,E017,Dordata,Énergie,6,1207,True
+2021,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1338,False
+2021,Master,stage,E035,Silnet Groupe,Santé,2,1353,True
+2021,Master,stage,E008,Briware,Télécoms,2,1271,False
+2021,Master,stage,E025,Yolnet,Santé,5,1200,False
+2021,Master,stage,E024,Uxsoft,Conseil et ESN,4,843,True
+2021,Master,stage,E005,Silnet,Énergie,4,1367,False
+2021,Master,stage,E039,Lumworks Groupe,Secteur public,2,1350,False
+2021,Master,stage,E007,Temdata,Énergie,2,684,True
+2021,Master,stage,E013,Pyrlogic,Énergie,2,1419,False
+2021,Master,stage,E026,Wennova,Énergie,5,1081,False
+2021,Master,stage,E040,Cersys Groupe,Industrie,4,1083,False
+2021,Master,stage,E014,Arksoft,Conseil et ESN,4,1151,False
+2021,Master,stage,E040,Cersys Groupe,Industrie,5,668,False
+2021,Master,stage,E036,Kalnova Groupe,Santé,4,1308,False
+2021,Master,stage,E011,Voxtech,Télécoms,3,1245,False
+2021,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,4,807,False
+2021,Master,stage,E014,Arksoft,Conseil et ESN,4,1401,True
+2021,Master,stage,E022,Rhelab,Conseil et ESN,6,1378,False
+2021,Master,stage,E022,Rhelab,Conseil et ESN,5,644,False
+2021,Master,stage,E005,Silnet,Énergie,5,1078,False
+2021,Master,stage,E039,Lumworks Groupe,Secteur public,6,1169,True
+2021,Master,stage,E024,Uxsoft,Conseil et ESN,6,867,True
+2021,Master,stage,E035,Silnet Groupe,Santé,4,1224,False
+2021,Master,stage,E037,Temdata Groupe,Industrie,6,643,False
+2022,FISE,stage,E037,Temdata Groupe,Industrie,6,1106,False
+2022,FISE,stage,E002,Norlab,Conseil et ESN,6,935,False
+2022,FISE,stage,E025,Yolnet,Santé,6,817,False
+2022,FISE,stage,E035,Silnet Groupe,Santé,3,1405,False
+2022,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,3,737,False
+2022,FISE,stage,E014,Arksoft,Conseil et ESN,2,1219,False
+2022,FISE,stage,E004,Orisoft,Santé,2,1268,False
+2022,FISE,stage,E011,Voxtech,Télécoms,6,949,False
+2022,FISE,stage,E013,Pyrlogic,Énergie,2,1433,False
+2022,FISE,stage,E024,Uxsoft,Conseil et ESN,2,881,True
+2022,FISE,stage,E007,Temdata,Énergie,5,732,True
+2022,FISE,stage,E038,Briware Groupe,Santé,3,1250,False
+2022,FISE,stage,E014,Arksoft,Conseil et ESN,6,1351,False
+2022,FISE,stage,E032,Norlab Groupe,Industrie,6,1144,False
+2022,FISE,stage,E017,Dordata,Énergie,4,1258,False
+2022,FISE,stage,E005,Silnet,Énergie,4,1314,False
+2022,FISE,stage,E006,Kalnova,Santé,2,958,False
+2022,FISE,stage,E025,Yolnet,Santé,6,1158,False
+2022,FISE,stage,E035,Silnet Groupe,Santé,6,1008,False
+2022,FISE,stage,E002,Norlab,Conseil et ESN,3,837,False
+2022,FISE,stage,E010,Cersys,Énergie,5,734,False
+2022,FISE,stage,E017,Dordata,Énergie,3,934,False
+2022,FISE,stage,E017,Dordata,Énergie,6,977,True
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1267,False
+2022,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,1434,False
+2022,FISE,stage,E004,Orisoft,Santé,3,959,False
+2022,FISE,stage,E005,Silnet,Énergie,4,1134,True
+2022,FISE,stage,E005,Silnet,Énergie,6,1120,True
+2022,FISE,stage,E025,Yolnet,Santé,6,1287,False
+2022,FISE,stage,E020,Istersys,Éditeur logiciel,6,1392,True
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,4,749,True
+2022,FISE,stage,E003,Vellogic,Banque et assurance,4,1137,True
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,4,775,False
+2022,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,753,False
+2022,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,720,True
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,5,1219,True
+2022,FISE,stage,E028,Obrware,Conseil et ESN,5,723,False
+2022,FISE,stage,E015,Zennet,Commerce,2,659,False
+2022,FISE,stage,E010,Cersys,Énergie,6,882,True
+2022,FISE,stage,E026,Wennova,Énergie,5,929,True
+2022,FISE,stage,E040,Cersys Groupe,Industrie,6,1426,False
+2022,FISE,stage,E005,Silnet,Énergie,2,1212,True
+2022,FISE,stage,E005,Silnet,Énergie,4,724,False
+2022,FISE,stage,E006,Kalnova,Santé,4,690,False
+2022,FISE,stage,E022,Rhelab,Conseil et ESN,4,903,False
+2022,FISE,stage,E032,Norlab Groupe,Industrie,6,981,False
+2022,FISE,stage,E007,Temdata,Énergie,2,1490,False
+2022,FISE,stage,E014,Arksoft,Conseil et ESN,5,1039,False
+2022,FISE,stage,E014,Arksoft,Conseil et ESN,6,843,False
+2022,FISE,stage,E026,Wennova,Énergie,4,959,False
+2022,FISE,stage,E025,Yolnet,Santé,6,1245,True
+2022,FISE,stage,E025,Yolnet,Santé,3,1455,True
+2022,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,4,906,False
+2022,FISE,stage,E012,Hallab,Commerce,2,1334,False
+2022,FISE,stage,E006,Kalnova,Santé,6,891,False
+2022,FISE,stage,E030,Sabsys,Conseil et ESN,4,938,False
+2022,FISE,stage,E028,Obrware,Conseil et ESN,6,655,True
+2022,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,2,881,False
+2022,FISE,stage,E005,Silnet,Énergie,6,1191,True
+2022,FISE,stage,E025,Yolnet,Santé,2,762,True
+2022,FISE,stage,E002,Norlab,Conseil et ESN,6,941,False
+2022,FISE,stage,E029,Pelworks,Secteur public,6,1185,False
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1145,True
+2022,FISE,stage,E019,Galworks,Transport,5,1297,True
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,993,True
+2022,FISE,stage,E002,Norlab,Conseil et ESN,6,1265,False
+2022,FISE,stage,E025,Yolnet,Santé,6,871,True
+2022,FISE,stage,E024,Uxsoft,Conseil et ESN,5,1410,False
+2022,FISE,stage,E026,Wennova,Énergie,4,1171,False
+2022,FISE,stage,E027,Nexdata,Banque et assurance,6,670,True
+2022,FISE,stage,E017,Dordata,Énergie,5,890,False
+2022,FISE,stage,E038,Briware Groupe,Santé,2,1166,False
+2022,FISE,stage,E036,Kalnova Groupe,Santé,2,683,False
+2022,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,4,1003,False
+2022,FISE,stage,E006,Kalnova,Santé,6,1345,False
+2022,FISE,stage,E008,Briware,Télécoms,6,912,False
+2022,FISE,stage,E011,Voxtech,Télécoms,5,719,True
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,3,1336,False
+2022,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,3,770,False
+2022,FISE,stage,E027,Nexdata,Banque et assurance,4,820,True
+2022,FISE,stage,E037,Temdata Groupe,Industrie,3,1178,False
+2022,FISE,stage,E035,Silnet Groupe,Santé,4,1042,False
+2022,FISE,stage,E028,Obrware,Conseil et ESN,6,980,True
+2022,FISE,stage,E029,Pelworks,Secteur public,6,1213,False
+2022,FISE,stage,E025,Yolnet,Santé,6,1467,True
+2022,FISE,stage,E016,Mirnova,Conseil et ESN,6,1003,True
+2022,FISE,stage,E005,Silnet,Énergie,6,804,False
+2022,FISE,stage,E025,Yolnet,Santé,6,703,False
+2022,FISE,stage,E019,Galworks,Transport,5,881,False
+2022,FISE,stage,E010,Cersys,Énergie,6,1231,True
+2022,FISE,stage,E006,Kalnova,Santé,3,1365,False
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,5,1182,True
+2022,FISE,stage,E023,Tallogic,Industrie,6,746,True
+2022,FISE,stage,E022,Rhelab,Conseil et ESN,6,1407,True
+2022,FISE,stage,E040,Cersys Groupe,Industrie,2,1153,False
+2022,FISE,stage,E029,Pelworks,Secteur public,6,873,True
+2022,FISE,stage,E014,Arksoft,Conseil et ESN,6,795,False
+2022,FISE,stage,E022,Rhelab,Conseil et ESN,6,1362,False
+2022,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,5,1356,False
+2022,FISE,stage,E040,Cersys Groupe,Industrie,6,1010,True
+2022,FISE,stage,E003,Vellogic,Banque et assurance,6,1332,True
+2022,FISE,stage,E004,Orisoft,Santé,6,1061,False
+2022,FISE,stage,E035,Silnet Groupe,Santé,6,920,True
+2022,FISE,stage,E024,Uxsoft,Conseil et ESN,6,723,False
+2022,FISE,stage,E002,Norlab,Conseil et ESN,6,1488,False
+2022,FISE,stage,E010,Cersys,Énergie,5,845,False
+2022,FISE,stage,E017,Dordata,Énergie,6,1350,True
+2022,FISE,stage,E025,Yolnet,Santé,6,754,True
+2022,FISE,stage,E015,Zennet,Commerce,2,1079,True
+2022,FISE,stage,E027,Nexdata,Banque et assurance,6,689,False
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,5,1381,True
+2022,FISE,stage,E040,Cersys Groupe,Industrie,6,1067,True
+2022,FISE,stage,E003,Vellogic,Banque et assurance,5,1221,False
+2022,FISE,stage,E022,Rhelab,Conseil et ESN,2,878,False
+2022,FISE,stage,E008,Briware,Télécoms,6,946,False
+2022,FISE,stage,E026,Wennova,Énergie,6,829,False
+2022,FISE,stage,E011,Voxtech,Télécoms,3,670,True
+2022,FISE,stage,E002,Norlab,Conseil et ESN,4,909,False
+2022,FISE,stage,E006,Kalnova,Santé,6,1256,False
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,3,1113,False
+2022,FISE,stage,E023,Tallogic,Industrie,5,829,True
+2022,FISE,stage,E015,Zennet,Commerce,6,774,False
+2022,FISE,stage,E018,Fenware,Transport,5,1154,False
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,5,688,True
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,5,1248,False
+2022,FISE,stage,E002,Norlab,Conseil et ESN,6,886,False
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,4,735,False
+2022,FISE,stage,E040,Cersys Groupe,Industrie,6,784,False
+2022,FISE,stage,E002,Norlab,Conseil et ESN,6,698,True
+2022,FISE,stage,E015,Zennet,Commerce,3,1371,True
+2022,FISE,stage,E007,Temdata,Énergie,6,871,True
+2022,FISE,stage,E037,Temdata Groupe,Industrie,6,1474,False
+2022,FISE,stage,E025,Yolnet,Santé,6,1439,True
+2022,FISE,stage,E002,Norlab,Conseil et ESN,6,1265,True
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,673,False
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1224,True
+2022,FISE,stage,E019,Galworks,Transport,3,1324,False
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,787,True
+2022,FISE,stage,E036,Kalnova Groupe,Santé,6,881,False
+2022,FISE,stage,E010,Cersys,Énergie,4,1505,True
+2022,FISE,stage,E017,Dordata,Énergie,3,1284,True
+2022,FISE,stage,E010,Cersys,Énergie,4,863,False
+2022,FISE,stage,E035,Silnet Groupe,Santé,3,654,False
+2022,FISE,stage,E013,Pyrlogic,Énergie,6,908,False
+2022,FISE,stage,E035,Silnet Groupe,Santé,3,1154,True
+2022,FISE,stage,E028,Obrware,Conseil et ESN,6,727,True
+2022,FISE,stage,E023,Tallogic,Industrie,4,1325,True
+2022,FISE,stage,E040,Cersys Groupe,Industrie,6,1211,False
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1450,True
+2022,FISE,stage,E028,Obrware,Conseil et ESN,6,1287,False
+2022,FISE,stage,E021,Quotech,Industrie,3,1069,True
+2022,FISE,stage,E005,Silnet,Énergie,6,971,False
+2022,FISE,stage,E004,Orisoft,Santé,3,802,True
+2022,FISE,stage,E005,Silnet,Énergie,3,1394,True
+2022,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,694,False
+2022,FISE,stage,E028,Obrware,Conseil et ESN,3,663,False
+2022,FISE,stage,E006,Kalnova,Santé,6,1209,True
+2022,FISE,stage,E022,Rhelab,Conseil et ESN,6,682,True
+2022,FISE,stage,E035,Silnet Groupe,Santé,6,658,False
+2022,FISE,stage,E001,Alttech,Conseil et ESN,4,1236,False
+2022,FISE,stage,E030,Sabsys,Conseil et ESN,2,1321,True
+2022,FISE,stage,E018,Fenware,Transport,4,859,False
+2022,FISE,stage,E038,Briware Groupe,Santé,3,1167,False
+2022,FISE,stage,E032,Norlab Groupe,Industrie,6,1343,True
+2022,FISE,stage,E004,Orisoft,Santé,5,917,False
+2022,FISE,stage,E010,Cersys,Énergie,4,708,True
+2022,FISE,stage,E027,Nexdata,Banque et assurance,3,658,False
+2022,FISE,stage,E025,Yolnet,Santé,6,862,True
+2022,FISE,stage,E026,Wennova,Énergie,2,903,False
+2022,FISE,stage,E017,Dordata,Énergie,6,1004,False
+2022,FISE,stage,E008,Briware,Télécoms,5,1373,True
+2022,FISE,stage,E017,Dordata,Énergie,6,1510,False
+2022,FISE,stage,E025,Yolnet,Santé,6,1504,False
+2022,FISE,stage,E008,Briware,Télécoms,5,967,True
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,6,721,False
+2022,FISE,stage,E023,Tallogic,Industrie,4,855,False
+2022,FISE,stage,E035,Silnet Groupe,Santé,6,730,False
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,4,1146,True
+2022,FISE,stage,E010,Cersys,Énergie,6,1338,True
+2022,FISE,stage,E036,Kalnova Groupe,Santé,6,1019,True
+2022,FISE,stage,E035,Silnet Groupe,Santé,3,830,True
+2022,FISE,stage,E015,Zennet,Commerce,4,952,False
+2022,FISE,stage,E035,Silnet Groupe,Santé,4,1299,False
+2022,FISE,stage,E017,Dordata,Énergie,6,1166,False
+2022,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,707,True
+2022,FISE,stage,E009,Lumworks,Transport,3,838,False
+2022,FISE,stage,E036,Kalnova Groupe,Santé,5,1176,True
+2022,FISE,stage,E026,Wennova,Énergie,3,1160,False
+2022,FISE,stage,E036,Kalnova Groupe,Santé,4,867,True
+2022,FISE,stage,E029,Pelworks,Secteur public,3,1067,True
+2022,FISE,stage,E038,Briware Groupe,Santé,2,1359,False
+2022,FISE,stage,E007,Temdata,Énergie,6,1459,False
+2022,FISE,stage,E023,Tallogic,Industrie,3,1136,False
+2022,FISE,stage,E007,Temdata,Énergie,4,735,False
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,3,1200,False
+2022,FISE,stage,E026,Wennova,Énergie,2,1288,False
+2022,FISE,stage,E036,Kalnova Groupe,Santé,5,1494,True
+2022,FISE,stage,E004,Orisoft,Santé,3,1434,False
+2022,FISE,stage,E005,Silnet,Énergie,6,863,True
+2022,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1463,False
+2022,FISE,stage,E027,Nexdata,Banque et assurance,6,1357,False
+2022,FISE,stage,E004,Orisoft,Santé,5,1294,False
+2022,FISE,stage,E003,Vellogic,Banque et assurance,6,1417,True
+2022,FISE,stage,E011,Voxtech,Télécoms,6,993,False
+2022,FISE,stage,E011,Voxtech,Télécoms,2,861,True
+2022,FISE,stage,E006,Kalnova,Santé,2,1078,False
+2022,FISE,stage,E023,Tallogic,Industrie,6,1511,False
+2022,FISE,stage,E022,Rhelab,Conseil et ESN,4,754,False
+2022,FISE,stage,E017,Dordata,Énergie,4,1076,False
+2022,FISE,stage,E028,Obrware,Conseil et ESN,4,1060,False
+2022,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,5,1206,False
+2022,FISE,stage,E039,Lumworks Groupe,Secteur public,6,849,False
+2022,FISE,stage,E032,Norlab Groupe,Industrie,4,1085,True
+2022,FISE,stage,E031,Alttech Groupe,Conseil et ESN,3,1292,False
+2022,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,1393,True
+2022,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1076,False
+2022,FISEA,alternance,E028,Obrware,Conseil et ESN,12,987,False
+2022,FISEA,alternance,E028,Obrware,Conseil et ESN,12,771,True
+2022,FISEA,alternance,E019,Galworks,Transport,12,785,True
+2022,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1174,False
+2022,FISEA,alternance,E037,Temdata Groupe,Industrie,12,943,False
+2022,FISEA,alternance,E012,Hallab,Commerce,12,1112,False
+2022,FISEA,alternance,E011,Voxtech,Télécoms,12,1146,False
+2022,FISEA,alternance,E036,Kalnova Groupe,Santé,12,668,False
+2022,FISEA,alternance,E008,Briware,Télécoms,12,1121,True
+2022,FISEA,alternance,E040,Cersys Groupe,Industrie,12,924,False
+2022,FISEA,alternance,E025,Yolnet,Santé,12,865,False
+2022,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1117,True
+2022,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1456,False
+2022,FISEA,alternance,E011,Voxtech,Télécoms,12,918,False
+2022,FISEA,alternance,E011,Voxtech,Télécoms,12,909,False
+2022,FISEA,alternance,E038,Briware Groupe,Santé,12,776,False
+2022,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,822,True
+2022,FISEA,alternance,E006,Kalnova,Santé,12,850,False
+2022,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,708,False
+2022,FISEA,alternance,E010,Cersys,Énergie,12,912,False
+2022,FISEA,alternance,E035,Silnet Groupe,Santé,12,1328,False
+2022,FISEA,alternance,E038,Briware Groupe,Santé,12,1192,True
+2022,FISEA,alternance,E035,Silnet Groupe,Santé,12,889,True
+2022,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1301,False
+2022,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1098,True
+2022,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1131,False
+2022,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1490,False
+2022,FISEA,alternance,E028,Obrware,Conseil et ESN,12,991,False
+2022,FISEA,alternance,E010,Cersys,Énergie,12,1483,False
+2022,FISEA,alternance,E040,Cersys Groupe,Industrie,12,726,True
+2022,FISEA,alternance,E007,Temdata,Énergie,12,1259,False
+2022,FISEA,alternance,E001,Alttech,Conseil et ESN,12,773,False
+2022,FISEA,alternance,E008,Briware,Télécoms,12,866,False
+2022,FISEA,alternance,E002,Norlab,Conseil et ESN,12,813,False
+2022,FISEA,alternance,E038,Briware Groupe,Santé,12,947,False
+2022,FISEA,alternance,E017,Dordata,Énergie,12,1007,True
+2022,FISEA,alternance,E040,Cersys Groupe,Industrie,12,1306,False
+2022,FISEA,alternance,E004,Orisoft,Santé,12,824,False
+2022,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,816,True
+2022,FISEA,alternance,E029,Pelworks,Secteur public,12,1352,True
+2022,FISEA,alternance,E019,Galworks,Transport,12,1015,True
+2022,FISEA,alternance,E026,Wennova,Énergie,12,1404,False
+2022,FISEA,alternance,E005,Silnet,Énergie,12,1508,False
+2022,FISEA,alternance,E015,Zennet,Commerce,12,1119,True
+2022,FISEA,alternance,E035,Silnet Groupe,Santé,12,1411,True
+2022,FISEA,alternance,E036,Kalnova Groupe,Santé,12,865,False
+2022,FISEA,alternance,E008,Briware,Télécoms,12,764,False
+2022,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1240,True
+2022,FISEA,alternance,E019,Galworks,Transport,12,1454,False
+2022,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1125,False
+2022,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,806,False
+2022,FISEA,alternance,E015,Zennet,Commerce,12,1110,False
+2022,FISEA,alternance,E026,Wennova,Énergie,12,1319,True
+2022,FISEA,alternance,E019,Galworks,Transport,12,862,True
+2022,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1013,False
+2022,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,1478,True
+2022,FISEA,alternance,E018,Fenware,Transport,12,789,False
+2022,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1486,True
+2022,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1239,False
+2022,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,1064,False
+2022,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,925,False
+2022,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,968,False
+2022,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,791,False
+2022,Master,stage,E008,Briware,Télécoms,4,936,False
+2022,Master,stage,E022,Rhelab,Conseil et ESN,2,963,False
+2022,Master,stage,E016,Mirnova,Conseil et ESN,2,815,True
+2022,Master,stage,E036,Kalnova Groupe,Santé,2,861,True
+2022,Master,stage,E011,Voxtech,Télécoms,5,1388,True
+2022,Master,stage,E029,Pelworks,Secteur public,6,1379,False
+2022,Master,stage,E031,Alttech Groupe,Conseil et ESN,5,1187,False
+2022,Master,stage,E022,Rhelab,Conseil et ESN,3,694,False
+2022,Master,stage,E039,Lumworks Groupe,Secteur public,6,1373,False
+2022,Master,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1406,False
+2022,Master,stage,E040,Cersys Groupe,Industrie,3,1411,False
+2022,Master,stage,E003,Vellogic,Banque et assurance,4,1376,False
+2022,Master,stage,E005,Silnet,Énergie,6,1057,True
+2022,Master,stage,E021,Quotech,Industrie,4,1214,True
+2022,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,6,722,True
+2022,Master,stage,E037,Temdata Groupe,Industrie,4,1086,False
+2022,Master,stage,E013,Pyrlogic,Énergie,6,1371,False
+2022,Master,stage,E036,Kalnova Groupe,Santé,6,1048,False
+2022,Master,stage,E035,Silnet Groupe,Santé,4,1453,True
+2022,Master,stage,E023,Tallogic,Industrie,2,945,False
+2022,Master,stage,E008,Briware,Télécoms,6,1408,False
+2022,Master,stage,E015,Zennet,Commerce,6,802,False
+2022,Master,stage,E037,Temdata Groupe,Industrie,2,971,False
+2022,Master,stage,E003,Vellogic,Banque et assurance,5,1383,False
+2022,Master,stage,E002,Norlab,Conseil et ESN,4,664,True
+2022,Master,stage,E019,Galworks,Transport,4,676,False
+2022,Master,stage,E039,Lumworks Groupe,Secteur public,6,1311,False
+2022,Master,stage,E022,Rhelab,Conseil et ESN,2,1256,False
+2022,Master,stage,E015,Zennet,Commerce,4,731,True
+2022,Master,stage,E011,Voxtech,Télécoms,5,1459,True
+2022,Master,stage,E019,Galworks,Transport,6,668,False
+2022,Master,stage,E024,Uxsoft,Conseil et ESN,2,752,False
+2022,Master,stage,E010,Cersys,Énergie,4,735,False
+2022,Master,stage,E001,Alttech,Conseil et ESN,4,1494,False
+2022,Master,stage,E023,Tallogic,Industrie,6,1277,False
+2022,Master,stage,E031,Alttech Groupe,Conseil et ESN,4,872,False
+2023,FISE,stage,E007,Temdata,Énergie,6,1032,True
+2023,FISE,stage,E037,Temdata Groupe,Industrie,3,1097,False
+2023,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,1103,False
+2023,FISE,stage,E027,Nexdata,Banque et assurance,2,950,True
+2023,FISE,stage,E011,Voxtech,Télécoms,2,1067,False
+2023,FISE,stage,E019,Galworks,Transport,2,863,False
+2023,FISE,stage,E040,Cersys Groupe,Industrie,6,1263,False
+2023,FISE,stage,E032,Norlab Groupe,Industrie,4,1242,False
+2023,FISE,stage,E004,Orisoft,Santé,5,1416,False
+2023,FISE,stage,E031,Alttech Groupe,Conseil et ESN,3,1069,False
+2023,FISE,stage,E010,Cersys,Énergie,6,1350,True
+2023,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,2,904,True
+2023,FISE,stage,E039,Lumworks Groupe,Secteur public,5,799,False
+2023,FISE,stage,E014,Arksoft,Conseil et ESN,3,794,False
+2023,FISE,stage,E027,Nexdata,Banque et assurance,4,759,True
+2023,FISE,stage,E032,Norlab Groupe,Industrie,6,967,False
+2023,FISE,stage,E038,Briware Groupe,Santé,2,947,False
+2023,FISE,stage,E037,Temdata Groupe,Industrie,5,1121,False
+2023,FISE,stage,E024,Uxsoft,Conseil et ESN,3,686,True
+2023,FISE,stage,E037,Temdata Groupe,Industrie,6,1409,False
+2023,FISE,stage,E038,Briware Groupe,Santé,6,800,False
+2023,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,2,1440,False
+2023,FISE,stage,E040,Cersys Groupe,Industrie,4,894,True
+2023,FISE,stage,E027,Nexdata,Banque et assurance,6,786,True
+2023,FISE,stage,E025,Yolnet,Santé,6,1019,True
+2023,FISE,stage,E038,Briware Groupe,Santé,2,1541,True
+2023,FISE,stage,E013,Pyrlogic,Énergie,5,1519,False
+2023,FISE,stage,E037,Temdata Groupe,Industrie,6,1536,False
+2023,FISE,stage,E023,Tallogic,Industrie,6,1486,True
+2023,FISE,stage,E004,Orisoft,Santé,6,726,False
+2023,FISE,stage,E007,Temdata,Énergie,6,916,True
+2023,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,3,1117,True
+2023,FISE,stage,E015,Zennet,Commerce,5,756,False
+2023,FISE,stage,E011,Voxtech,Télécoms,5,1279,True
+2023,FISE,stage,E006,Kalnova,Santé,6,1293,False
+2023,FISE,stage,E015,Zennet,Commerce,5,757,False
+2023,FISE,stage,E005,Silnet,Énergie,4,1331,True
+2023,FISE,stage,E016,Mirnova,Conseil et ESN,4,1097,False
+2023,FISE,stage,E039,Lumworks Groupe,Secteur public,6,877,False
+2023,FISE,stage,E004,Orisoft,Santé,2,1378,False
+2023,FISE,stage,E038,Briware Groupe,Santé,2,804,False
+2023,FISE,stage,E026,Wennova,Énergie,3,1489,False
+2023,FISE,stage,E011,Voxtech,Télécoms,5,966,True
+2023,FISE,stage,E038,Briware Groupe,Santé,6,1245,False
+2023,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1483,True
+2023,FISE,stage,E038,Briware Groupe,Santé,6,1410,False
+2023,FISE,stage,E040,Cersys Groupe,Industrie,5,1070,False
+2023,FISE,stage,E036,Kalnova Groupe,Santé,3,1170,True
+2023,FISE,stage,E029,Pelworks,Secteur public,2,1026,True
+2023,FISE,stage,E006,Kalnova,Santé,3,897,False
+2023,FISE,stage,E004,Orisoft,Santé,5,768,True
+2023,FISE,stage,E027,Nexdata,Banque et assurance,6,737,False
+2023,FISE,stage,E022,Rhelab,Conseil et ESN,5,886,False
+2023,FISE,stage,E011,Voxtech,Télécoms,5,1291,False
+2023,FISE,stage,E040,Cersys Groupe,Industrie,4,1563,False
+2023,FISE,stage,E022,Rhelab,Conseil et ESN,2,803,False
+2023,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1432,True
+2023,FISE,stage,E029,Pelworks,Secteur public,6,883,True
+2023,FISE,stage,E035,Silnet Groupe,Santé,2,1231,False
+2023,FISE,stage,E038,Briware Groupe,Santé,5,704,False
+2023,FISE,stage,E010,Cersys,Énergie,6,907,True
+2023,FISE,stage,E007,Temdata,Énergie,2,1156,False
+2023,FISE,stage,E031,Alttech Groupe,Conseil et ESN,4,1198,True
+2023,FISE,stage,E026,Wennova,Énergie,3,1415,False
+2023,FISE,stage,E015,Zennet,Commerce,6,920,True
+2023,FISE,stage,E028,Obrware,Conseil et ESN,6,927,False
+2023,FISE,stage,E024,Uxsoft,Conseil et ESN,6,832,False
+2023,FISE,stage,E010,Cersys,Énergie,6,1164,False
+2023,FISE,stage,E002,Norlab,Conseil et ESN,6,1128,False
+2023,FISE,stage,E014,Arksoft,Conseil et ESN,6,1060,False
+2023,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,4,725,True
+2023,FISE,stage,E007,Temdata,Énergie,6,733,True
+2023,FISE,stage,E010,Cersys,Énergie,5,1265,False
+2023,FISE,stage,E021,Quotech,Industrie,6,1470,False
+2023,FISE,stage,E028,Obrware,Conseil et ESN,2,992,True
+2023,FISE,stage,E035,Silnet Groupe,Santé,4,1059,False
+2023,FISE,stage,E035,Silnet Groupe,Santé,6,1002,False
+2023,FISE,stage,E036,Kalnova Groupe,Santé,6,1343,False
+2023,FISE,stage,E015,Zennet,Commerce,2,1304,False
+2023,FISE,stage,E010,Cersys,Énergie,4,860,False
+2023,FISE,stage,E010,Cersys,Énergie,4,732,False
+2023,FISE,stage,E006,Kalnova,Santé,6,1452,False
+2023,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,2,834,False
+2023,FISE,stage,E015,Zennet,Commerce,3,836,False
+2023,FISE,stage,E035,Silnet Groupe,Santé,2,1406,False
+2023,FISE,stage,E038,Briware Groupe,Santé,5,1023,False
+2023,FISE,stage,E008,Briware,Télécoms,5,829,False
+2023,FISE,stage,E006,Kalnova,Santé,3,1209,False
+2023,FISE,stage,E025,Yolnet,Santé,5,686,False
+2023,FISE,stage,E023,Tallogic,Industrie,4,1245,True
+2023,FISE,stage,E028,Obrware,Conseil et ESN,6,1187,True
+2023,FISE,stage,E020,Istersys,Éditeur logiciel,4,1336,False
+2023,FISE,stage,E021,Quotech,Industrie,5,1462,False
+2023,FISE,stage,E015,Zennet,Commerce,2,1353,True
+2023,FISE,stage,E036,Kalnova Groupe,Santé,6,1449,True
+2023,FISE,stage,E017,Dordata,Énergie,6,1435,True
+2023,FISE,stage,E016,Mirnova,Conseil et ESN,6,984,False
+2023,FISE,stage,E021,Quotech,Industrie,5,1444,False
+2023,FISE,stage,E007,Temdata,Énergie,4,1223,False
+2023,FISE,stage,E029,Pelworks,Secteur public,6,1506,True
+2023,FISE,stage,E015,Zennet,Commerce,6,859,False
+2023,FISE,stage,E030,Sabsys,Conseil et ESN,6,1033,False
+2023,FISE,stage,E006,Kalnova,Santé,6,765,True
+2023,FISE,stage,E023,Tallogic,Industrie,6,1403,False
+2023,FISE,stage,E023,Tallogic,Industrie,6,957,False
+2023,FISE,stage,E036,Kalnova Groupe,Santé,6,1376,True
+2023,FISE,stage,E036,Kalnova Groupe,Santé,6,998,False
+2023,FISE,stage,E004,Orisoft,Santé,4,828,True
+2023,FISE,stage,E006,Kalnova,Santé,3,1090,True
+2023,FISE,stage,E017,Dordata,Énergie,6,1349,True
+2023,FISE,stage,E004,Orisoft,Santé,5,1282,False
+2023,FISE,stage,E007,Temdata,Énergie,6,1407,True
+2023,FISE,stage,E026,Wennova,Énergie,6,1511,True
+2023,FISE,stage,E008,Briware,Télécoms,6,771,False
+2023,FISE,stage,E031,Alttech Groupe,Conseil et ESN,4,676,True
+2023,FISE,stage,E008,Briware,Télécoms,6,1545,True
+2023,FISE,stage,E037,Temdata Groupe,Industrie,3,696,False
+2023,FISE,stage,E005,Silnet,Énergie,3,1264,False
+2023,FISE,stage,E022,Rhelab,Conseil et ESN,3,1481,False
+2023,FISE,stage,E024,Uxsoft,Conseil et ESN,3,1063,False
+2023,FISE,stage,E012,Hallab,Commerce,6,1223,False
+2023,FISE,stage,E029,Pelworks,Secteur public,5,1207,False
+2023,FISE,stage,E017,Dordata,Énergie,5,1209,True
+2023,FISE,stage,E035,Silnet Groupe,Santé,3,863,False
+2023,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,2,1107,False
+2023,FISE,stage,E003,Vellogic,Banque et assurance,6,1062,False
+2023,FISE,stage,E024,Uxsoft,Conseil et ESN,6,902,False
+2023,FISE,stage,E008,Briware,Télécoms,4,1181,False
+2023,FISE,stage,E022,Rhelab,Conseil et ESN,6,1129,False
+2023,FISE,stage,E026,Wennova,Énergie,6,740,False
+2023,FISE,stage,E026,Wennova,Énergie,6,1367,False
+2023,FISE,stage,E005,Silnet,Énergie,4,1063,False
+2023,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1378,False
+2023,FISE,stage,E025,Yolnet,Santé,6,1102,True
+2023,FISE,stage,E027,Nexdata,Banque et assurance,2,1127,False
+2023,FISE,stage,E004,Orisoft,Santé,2,839,False
+2023,FISE,stage,E008,Briware,Télécoms,6,883,True
+2023,FISE,stage,E026,Wennova,Énergie,4,1280,True
+2023,FISE,stage,E009,Lumworks,Transport,6,1395,True
+2023,FISE,stage,E027,Nexdata,Banque et assurance,6,1232,True
+2023,FISE,stage,E010,Cersys,Énergie,5,1298,True
+2023,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1492,False
+2023,FISE,stage,E010,Cersys,Énergie,6,745,True
+2023,FISE,stage,E017,Dordata,Énergie,3,1249,False
+2023,FISE,stage,E022,Rhelab,Conseil et ESN,4,1099,True
+2023,FISE,stage,E022,Rhelab,Conseil et ESN,5,1122,False
+2023,FISE,stage,E019,Galworks,Transport,2,1249,True
+2023,FISE,stage,E028,Obrware,Conseil et ESN,6,818,False
+2023,FISE,stage,E030,Sabsys,Conseil et ESN,3,756,False
+2023,FISE,stage,E006,Kalnova,Santé,4,867,False
+2023,FISE,stage,E004,Orisoft,Santé,6,1545,True
+2023,FISE,stage,E017,Dordata,Énergie,2,1362,False
+2023,FISE,stage,E008,Briware,Télécoms,5,793,True
+2023,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1050,False
+2023,FISE,stage,E011,Voxtech,Télécoms,4,720,False
+2023,FISE,stage,E012,Hallab,Commerce,6,1313,True
+2023,FISE,stage,E015,Zennet,Commerce,6,1394,True
+2023,FISE,stage,E035,Silnet Groupe,Santé,3,1339,False
+2023,FISE,stage,E029,Pelworks,Secteur public,6,881,False
+2023,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,2,1306,True
+2023,FISE,stage,E003,Vellogic,Banque et assurance,3,975,False
+2023,FISE,stage,E002,Norlab,Conseil et ESN,3,940,False
+2023,FISE,stage,E006,Kalnova,Santé,2,1278,True
+2023,FISE,stage,E006,Kalnova,Santé,6,975,False
+2023,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1231,False
+2023,FISE,stage,E003,Vellogic,Banque et assurance,6,1561,False
+2023,FISE,stage,E036,Kalnova Groupe,Santé,6,1451,False
+2023,FISE,stage,E038,Briware Groupe,Santé,6,837,True
+2023,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1117,False
+2023,FISE,stage,E002,Norlab,Conseil et ESN,4,1229,False
+2023,FISE,stage,E011,Voxtech,Télécoms,6,878,False
+2023,FISE,stage,E020,Istersys,Éditeur logiciel,4,1003,True
+2023,FISE,stage,E030,Sabsys,Conseil et ESN,4,1399,True
+2023,FISE,stage,E022,Rhelab,Conseil et ESN,2,1557,False
+2023,FISE,stage,E023,Tallogic,Industrie,4,957,False
+2023,FISE,stage,E036,Kalnova Groupe,Santé,6,1044,True
+2023,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,4,802,False
+2023,FISE,stage,E035,Silnet Groupe,Santé,3,819,True
+2023,FISE,stage,E006,Kalnova,Santé,5,1480,False
+2023,FISE,stage,E026,Wennova,Énergie,4,884,True
+2023,FISE,stage,E009,Lumworks,Transport,6,1475,False
+2023,FISE,stage,E005,Silnet,Énergie,6,1191,False
+2023,FISE,stage,E004,Orisoft,Santé,3,752,False
+2023,FISE,stage,E017,Dordata,Énergie,6,1241,False
+2023,FISE,stage,E002,Norlab,Conseil et ESN,5,780,False
+2023,FISE,stage,E008,Briware,Télécoms,6,1179,False
+2023,FISE,stage,E002,Norlab,Conseil et ESN,6,1289,False
+2023,FISE,stage,E037,Temdata Groupe,Industrie,6,763,False
+2023,FISE,stage,E015,Zennet,Commerce,6,1282,True
+2023,FISE,stage,E018,Fenware,Transport,2,844,True
+2023,FISE,stage,E019,Galworks,Transport,6,755,False
+2023,FISE,stage,E023,Tallogic,Industrie,4,684,True
+2023,FISE,stage,E016,Mirnova,Conseil et ESN,2,1049,True
+2023,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1163,True
+2023,FISE,stage,E004,Orisoft,Santé,2,1404,False
+2023,FISE,stage,E017,Dordata,Énergie,2,804,False
+2023,FISE,stage,E020,Istersys,Éditeur logiciel,3,957,False
+2023,FISE,stage,E002,Norlab,Conseil et ESN,6,1511,True
+2023,FISE,stage,E021,Quotech,Industrie,2,1285,True
+2023,FISE,stage,E031,Alttech Groupe,Conseil et ESN,5,1291,False
+2023,FISE,stage,E011,Voxtech,Télécoms,6,865,False
+2023,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1165,False
+2023,FISE,stage,E040,Cersys Groupe,Industrie,6,866,False
+2023,FISE,stage,E008,Briware,Télécoms,6,1393,True
+2023,FISE,stage,E026,Wennova,Énergie,4,963,True
+2023,FISE,stage,E025,Yolnet,Santé,6,1336,False
+2023,FISE,stage,E038,Briware Groupe,Santé,3,982,False
+2023,FISE,stage,E032,Norlab Groupe,Industrie,6,723,False
+2023,FISE,stage,E006,Kalnova,Santé,2,1207,False
+2023,FISE,stage,E016,Mirnova,Conseil et ESN,3,1111,False
+2023,FISE,stage,E027,Nexdata,Banque et assurance,4,1514,False
+2023,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1077,False
+2023,FISE,stage,E038,Briware Groupe,Santé,6,910,False
+2023,FISE,stage,E005,Silnet,Énergie,5,1444,True
+2023,FISE,stage,E038,Briware Groupe,Santé,5,879,False
+2023,FISE,stage,E002,Norlab,Conseil et ESN,2,1308,False
+2023,FISE,stage,E022,Rhelab,Conseil et ESN,2,1055,True
+2023,FISE,stage,E014,Arksoft,Conseil et ESN,6,1021,True
+2023,FISE,stage,E007,Temdata,Énergie,6,719,True
+2023,FISE,stage,E017,Dordata,Énergie,6,866,True
+2023,FISE,stage,E007,Temdata,Énergie,4,1432,True
+2023,FISE,stage,E013,Pyrlogic,Énergie,6,867,False
+2023,FISE,stage,E032,Norlab Groupe,Industrie,4,704,False
+2023,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1492,True
+2023,FISEA,alternance,E036,Kalnova Groupe,Santé,12,743,False
+2023,FISEA,alternance,E009,Lumworks,Transport,12,1483,False
+2023,FISEA,alternance,E012,Hallab,Commerce,12,1110,False
+2023,FISEA,alternance,E026,Wennova,Énergie,12,800,False
+2023,FISEA,alternance,E026,Wennova,Énergie,12,848,True
+2023,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,1357,False
+2023,FISEA,alternance,E023,Tallogic,Industrie,12,1286,False
+2023,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,862,False
+2023,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,1002,False
+2023,FISEA,alternance,E035,Silnet Groupe,Santé,12,940,True
+2023,FISEA,alternance,E004,Orisoft,Santé,12,997,False
+2023,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1341,True
+2023,FISEA,alternance,E007,Temdata,Énergie,12,928,False
+2023,FISEA,alternance,E005,Silnet,Énergie,12,1279,False
+2023,FISEA,alternance,E011,Voxtech,Télécoms,12,1213,False
+2023,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1532,False
+2023,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1099,False
+2023,FISEA,alternance,E040,Cersys Groupe,Industrie,12,685,False
+2023,FISEA,alternance,E040,Cersys Groupe,Industrie,12,782,True
+2023,FISEA,alternance,E021,Quotech,Industrie,12,1024,False
+2023,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1548,True
+2023,FISEA,alternance,E027,Nexdata,Banque et assurance,12,994,False
+2023,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1278,False
+2023,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1144,False
+2023,FISEA,alternance,E021,Quotech,Industrie,12,1538,True
+2023,FISEA,alternance,E017,Dordata,Énergie,12,935,True
+2023,FISEA,alternance,E038,Briware Groupe,Santé,12,1335,False
+2023,FISEA,alternance,E021,Quotech,Industrie,12,1214,False
+2023,FISEA,alternance,E040,Cersys Groupe,Industrie,12,1507,True
+2023,FISEA,alternance,E010,Cersys,Énergie,12,830,False
+2023,FISEA,alternance,E011,Voxtech,Télécoms,12,995,False
+2023,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1559,False
+2023,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1007,False
+2023,FISEA,alternance,E028,Obrware,Conseil et ESN,12,986,True
+2023,FISEA,alternance,E035,Silnet Groupe,Santé,12,780,False
+2023,FISEA,alternance,E002,Norlab,Conseil et ESN,12,730,False
+2023,FISEA,alternance,E006,Kalnova,Santé,12,988,True
+2023,FISEA,alternance,E035,Silnet Groupe,Santé,12,963,False
+2023,FISEA,alternance,E005,Silnet,Énergie,12,1522,False
+2023,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,1256,False
+2023,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1366,False
+2023,FISEA,alternance,E035,Silnet Groupe,Santé,12,726,False
+2023,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1564,False
+2023,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1197,False
+2023,FISEA,alternance,E010,Cersys,Énergie,12,1384,False
+2023,FISEA,alternance,E027,Nexdata,Banque et assurance,12,914,True
+2023,FISEA,alternance,E010,Cersys,Énergie,12,1089,True
+2023,FISEA,alternance,E005,Silnet,Énergie,12,883,False
+2023,FISEA,alternance,E032,Norlab Groupe,Industrie,12,1456,False
+2023,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,944,False
+2023,FISEA,alternance,E038,Briware Groupe,Santé,12,1407,False
+2023,FISEA,alternance,E007,Temdata,Énergie,12,1247,False
+2023,FISEA,alternance,E010,Cersys,Énergie,12,1378,True
+2023,FISEA,alternance,E040,Cersys Groupe,Industrie,12,1367,True
+2023,FISEA,alternance,E011,Voxtech,Télécoms,12,1458,False
+2023,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1407,False
+2023,FISEA,alternance,E035,Silnet Groupe,Santé,12,1480,False
+2023,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1475,False
+2023,FISEA,alternance,E025,Yolnet,Santé,12,1331,True
+2023,FISEA,alternance,E028,Obrware,Conseil et ESN,12,697,False
+2023,FISEA,alternance,E005,Silnet,Énergie,12,1491,False
+2023,FISEA,alternance,E036,Kalnova Groupe,Santé,12,751,True
+2023,FISEA,alternance,E019,Galworks,Transport,12,1391,False
+2023,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,1377,False
+2023,FISEA,alternance,E004,Orisoft,Santé,12,1314,True
+2023,FISEA,alternance,E026,Wennova,Énergie,12,1152,False
+2023,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1349,True
+2023,FISEA,alternance,E020,Istersys,Éditeur logiciel,12,777,False
+2023,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,1332,False
+2023,FISEA,alternance,E025,Yolnet,Santé,12,776,False
+2023,FISEA,alternance,E035,Silnet Groupe,Santé,12,1553,True
+2023,FISEA,alternance,E004,Orisoft,Santé,12,1367,False
+2023,Master,stage,E011,Voxtech,Télécoms,5,749,False
+2023,Master,stage,E001,Alttech,Conseil et ESN,3,1406,True
+2023,Master,stage,E024,Uxsoft,Conseil et ESN,4,860,False
+2023,Master,stage,E039,Lumworks Groupe,Secteur public,6,1547,False
+2023,Master,stage,E002,Norlab,Conseil et ESN,2,753,False
+2023,Master,stage,E004,Orisoft,Santé,3,1398,True
+2023,Master,stage,E011,Voxtech,Télécoms,2,1091,False
+2023,Master,stage,E028,Obrware,Conseil et ESN,5,1416,True
+2023,Master,stage,E028,Obrware,Conseil et ESN,2,1415,False
+2023,Master,stage,E025,Yolnet,Santé,6,1289,False
+2023,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,6,870,False
+2023,Master,stage,E002,Norlab,Conseil et ESN,6,1004,False
+2023,Master,stage,E002,Norlab,Conseil et ESN,6,1097,False
+2023,Master,stage,E024,Uxsoft,Conseil et ESN,6,1483,False
+2023,Master,stage,E007,Temdata,Énergie,2,1094,False
+2023,Master,stage,E033,Vellogic Groupe,Éditeur logiciel,5,1078,False
+2023,Master,stage,E006,Kalnova,Santé,6,1273,False
+2023,Master,stage,E040,Cersys Groupe,Industrie,5,959,True
+2023,Master,stage,E012,Hallab,Commerce,6,1008,True
+2023,Master,stage,E007,Temdata,Énergie,6,1293,False
+2023,Master,stage,E011,Voxtech,Télécoms,6,1320,False
+2023,Master,stage,E039,Lumworks Groupe,Secteur public,3,1113,False
+2023,Master,stage,E025,Yolnet,Santé,6,1445,False
+2023,Master,stage,E010,Cersys,Énergie,4,1356,True
+2023,Master,stage,E037,Temdata Groupe,Industrie,3,1363,False
+2023,Master,stage,E004,Orisoft,Santé,3,1130,False
+2023,Master,stage,E008,Briware,Télécoms,6,1273,False
+2023,Master,stage,E015,Zennet,Commerce,6,1212,False
+2023,Master,stage,E015,Zennet,Commerce,3,891,False
+2023,Master,stage,E024,Uxsoft,Conseil et ESN,3,1468,False
+2023,Master,stage,E028,Obrware,Conseil et ESN,3,797,False
+2023,Master,stage,E030,Sabsys,Conseil et ESN,3,1437,False
+2023,Master,stage,E023,Tallogic,Industrie,6,1389,False
+2023,Master,stage,E031,Alttech Groupe,Conseil et ESN,6,1057,False
+2023,Master,stage,E008,Briware,Télécoms,6,970,False
+2023,Master,stage,E039,Lumworks Groupe,Secteur public,6,1314,False
+2024,FISE,stage,E020,Istersys,Éditeur logiciel,3,1434,False
+2024,FISE,stage,E011,Voxtech,Télécoms,6,1516,True
+2024,FISE,stage,E019,Galworks,Transport,4,1044,False
+2024,FISE,stage,E016,Mirnova,Conseil et ESN,3,928,False
+2024,FISE,stage,E003,Vellogic,Banque et assurance,5,1468,False
+2024,FISE,stage,E027,Nexdata,Banque et assurance,6,1320,False
+2024,FISE,stage,E004,Orisoft,Santé,2,846,True
+2024,FISE,stage,E029,Pelworks,Secteur public,5,1304,False
+2024,FISE,stage,E009,Lumworks,Transport,2,781,False
+2024,FISE,stage,E004,Orisoft,Santé,6,1427,False
+2024,FISE,stage,E012,Hallab,Commerce,2,1463,False
+2024,FISE,stage,E026,Wennova,Énergie,2,1152,True
+2024,FISE,stage,E040,Cersys Groupe,Industrie,5,1395,False
+2024,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1014,False
+2024,FISE,stage,E037,Temdata Groupe,Industrie,6,1612,True
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,6,795,True
+2024,FISE,stage,E007,Temdata,Énergie,3,1420,False
+2024,FISE,stage,E026,Wennova,Énergie,5,1432,False
+2024,FISE,stage,E020,Istersys,Éditeur logiciel,6,1193,True
+2024,FISE,stage,E016,Mirnova,Conseil et ESN,5,943,False
+2024,FISE,stage,E019,Galworks,Transport,3,1028,False
+2024,FISE,stage,E027,Nexdata,Banque et assurance,6,812,False
+2024,FISE,stage,E023,Tallogic,Industrie,4,1411,True
+2024,FISE,stage,E037,Temdata Groupe,Industrie,3,1039,True
+2024,FISE,stage,E001,Alttech,Conseil et ESN,5,1100,False
+2024,FISE,stage,E018,Fenware,Transport,3,1483,False
+2024,FISE,stage,E040,Cersys Groupe,Industrie,3,800,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,4,1024,True
+2024,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1526,False
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,4,1253,True
+2024,FISE,stage,E026,Wennova,Énergie,6,1119,False
+2024,FISE,stage,E010,Cersys,Énergie,3,1407,True
+2024,FISE,stage,E036,Kalnova Groupe,Santé,2,1244,False
+2024,FISE,stage,E010,Cersys,Énergie,5,1459,True
+2024,FISE,stage,E002,Norlab,Conseil et ESN,4,840,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1206,False
+2024,FISE,stage,E018,Fenware,Transport,6,1119,False
+2024,FISE,stage,E040,Cersys Groupe,Industrie,6,981,False
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,5,771,False
+2024,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,753,True
+2024,FISE,stage,E035,Silnet Groupe,Santé,4,995,True
+2024,FISE,stage,E004,Orisoft,Santé,6,1023,False
+2024,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1327,True
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,5,1477,False
+2024,FISE,stage,E014,Arksoft,Conseil et ESN,6,979,True
+2024,FISE,stage,E011,Voxtech,Télécoms,6,1425,True
+2024,FISE,stage,E015,Zennet,Commerce,4,724,True
+2024,FISE,stage,E007,Temdata,Énergie,6,1377,False
+2024,FISE,stage,E028,Obrware,Conseil et ESN,6,1199,False
+2024,FISE,stage,E014,Arksoft,Conseil et ESN,4,1304,False
+2024,FISE,stage,E005,Silnet,Énergie,5,879,False
+2024,FISE,stage,E038,Briware Groupe,Santé,3,1173,True
+2024,FISE,stage,E008,Briware,Télécoms,6,696,False
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,2,1290,False
+2024,FISE,stage,E019,Galworks,Transport,3,1548,True
+2024,FISE,stage,E006,Kalnova,Santé,6,1421,False
+2024,FISE,stage,E010,Cersys,Énergie,2,696,False
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,4,1400,False
+2024,FISE,stage,E007,Temdata,Énergie,6,1555,False
+2024,FISE,stage,E025,Yolnet,Santé,2,1042,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,4,1374,False
+2024,FISE,stage,E028,Obrware,Conseil et ESN,4,1203,False
+2024,FISE,stage,E020,Istersys,Éditeur logiciel,5,744,True
+2024,FISE,stage,E017,Dordata,Énergie,3,1595,True
+2024,FISE,stage,E037,Temdata Groupe,Industrie,5,1509,True
+2024,FISE,stage,E003,Vellogic,Banque et assurance,6,1292,False
+2024,FISE,stage,E019,Galworks,Transport,3,836,True
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1577,True
+2024,FISE,stage,E036,Kalnova Groupe,Santé,6,885,False
+2024,FISE,stage,E019,Galworks,Transport,5,1484,True
+2024,FISE,stage,E012,Hallab,Commerce,2,1328,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,6,955,False
+2024,FISE,stage,E019,Galworks,Transport,3,1117,False
+2024,FISE,stage,E031,Alttech Groupe,Conseil et ESN,3,1170,True
+2024,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,885,False
+2024,FISE,stage,E015,Zennet,Commerce,4,906,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,6,967,False
+2024,FISE,stage,E019,Galworks,Transport,3,857,False
+2024,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,2,1381,False
+2024,FISE,stage,E029,Pelworks,Secteur public,3,1340,False
+2024,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,3,1496,False
+2024,FISE,stage,E006,Kalnova,Santé,3,1310,False
+2024,FISE,stage,E031,Alttech Groupe,Conseil et ESN,2,818,True
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,5,761,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,6,1290,False
+2024,FISE,stage,E026,Wennova,Énergie,6,840,False
+2024,FISE,stage,E011,Voxtech,Télécoms,6,1130,False
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,3,1535,False
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,6,1413,False
+2024,FISE,stage,E020,Istersys,Éditeur logiciel,3,814,True
+2024,FISE,stage,E027,Nexdata,Banque et assurance,3,1177,True
+2024,FISE,stage,E002,Norlab,Conseil et ESN,4,1234,False
+2024,FISE,stage,E019,Galworks,Transport,3,1574,True
+2024,FISE,stage,E023,Tallogic,Industrie,4,1234,False
+2024,FISE,stage,E005,Silnet,Énergie,3,1605,False
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,6,720,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,5,1417,True
+2024,FISE,stage,E038,Briware Groupe,Santé,2,1002,False
+2024,FISE,stage,E015,Zennet,Commerce,5,1175,False
+2024,FISE,stage,E008,Briware,Télécoms,6,1507,False
+2024,FISE,stage,E014,Arksoft,Conseil et ESN,2,1593,True
+2024,FISE,stage,E010,Cersys,Énergie,6,768,False
+2024,FISE,stage,E005,Silnet,Énergie,6,1264,False
+2024,FISE,stage,E005,Silnet,Énergie,6,1146,False
+2024,FISE,stage,E012,Hallab,Commerce,2,1517,True
+2024,FISE,stage,E020,Istersys,Éditeur logiciel,6,1253,False
+2024,FISE,stage,E015,Zennet,Commerce,5,1181,True
+2024,FISE,stage,E002,Norlab,Conseil et ESN,6,782,False
+2024,FISE,stage,E026,Wennova,Énergie,2,1515,False
+2024,FISE,stage,E015,Zennet,Commerce,5,1431,False
+2024,FISE,stage,E005,Silnet,Énergie,6,1517,True
+2024,FISE,stage,E008,Briware,Télécoms,6,1526,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,2,717,True
+2024,FISE,stage,E007,Temdata,Énergie,6,1396,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,4,1307,True
+2024,FISE,stage,E010,Cersys,Énergie,5,1374,False
+2024,FISE,stage,E035,Silnet Groupe,Santé,6,1034,False
+2024,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1290,False
+2024,FISE,stage,E040,Cersys Groupe,Industrie,4,1420,True
+2024,FISE,stage,E013,Pyrlogic,Énergie,6,837,False
+2024,FISE,stage,E017,Dordata,Énergie,3,1480,False
+2024,FISE,stage,E010,Cersys,Énergie,6,1388,False
+2024,FISE,stage,E023,Tallogic,Industrie,5,1375,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,4,812,True
+2024,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1282,False
+2024,FISE,stage,E027,Nexdata,Banque et assurance,2,1328,False
+2024,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1152,False
+2024,FISE,stage,E027,Nexdata,Banque et assurance,2,963,False
+2024,FISE,stage,E008,Briware,Télécoms,4,1081,False
+2024,FISE,stage,E014,Arksoft,Conseil et ESN,6,1524,False
+2024,FISE,stage,E004,Orisoft,Santé,3,942,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1228,True
+2024,FISE,stage,E007,Temdata,Énergie,6,1550,False
+2024,FISE,stage,E036,Kalnova Groupe,Santé,6,813,False
+2024,FISE,stage,E017,Dordata,Énergie,2,879,False
+2024,FISE,stage,E017,Dordata,Énergie,6,1560,False
+2024,FISE,stage,E040,Cersys Groupe,Industrie,6,1563,True
+2024,FISE,stage,E035,Silnet Groupe,Santé,5,1601,True
+2024,FISE,stage,E026,Wennova,Énergie,2,1014,True
+2024,FISE,stage,E019,Galworks,Transport,6,939,False
+2024,FISE,stage,E025,Yolnet,Santé,6,1090,False
+2024,FISE,stage,E008,Briware,Télécoms,6,713,False
+2024,FISE,stage,E015,Zennet,Commerce,6,1245,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,4,984,False
+2024,FISE,stage,E036,Kalnova Groupe,Santé,6,1295,True
+2024,FISE,stage,E018,Fenware,Transport,4,1068,True
+2024,FISE,stage,E040,Cersys Groupe,Industrie,3,1384,False
+2024,FISE,stage,E038,Briware Groupe,Santé,5,910,False
+2024,FISE,stage,E008,Briware,Télécoms,2,1489,False
+2024,FISE,stage,E020,Istersys,Éditeur logiciel,3,757,True
+2024,FISE,stage,E013,Pyrlogic,Énergie,6,1427,True
+2024,FISE,stage,E020,Istersys,Éditeur logiciel,2,1083,False
+2024,FISE,stage,E008,Briware,Télécoms,5,1241,True
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,3,1019,False
+2024,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,749,True
+2024,FISE,stage,E004,Orisoft,Santé,6,1619,True
+2024,FISE,stage,E011,Voxtech,Télécoms,5,1457,False
+2024,FISE,stage,E019,Galworks,Transport,4,1567,False
+2024,FISE,stage,E006,Kalnova,Santé,6,1580,False
+2024,FISE,stage,E010,Cersys,Énergie,6,1512,False
+2024,FISE,stage,E013,Pyrlogic,Énergie,6,759,False
+2024,FISE,stage,E017,Dordata,Énergie,5,758,True
+2024,FISE,stage,E018,Fenware,Transport,4,1142,True
+2024,FISE,stage,E040,Cersys Groupe,Industrie,3,744,True
+2024,FISE,stage,E004,Orisoft,Santé,3,1324,True
+2024,FISE,stage,E026,Wennova,Énergie,3,827,True
+2024,FISE,stage,E008,Briware,Télécoms,5,842,True
+2024,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,1453,True
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,5,1386,False
+2024,FISE,stage,E037,Temdata Groupe,Industrie,4,1501,True
+2024,FISE,stage,E035,Silnet Groupe,Santé,4,1422,True
+2024,FISE,stage,E002,Norlab,Conseil et ESN,6,1316,False
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1494,False
+2024,FISE,stage,E036,Kalnova Groupe,Santé,2,787,False
+2024,FISE,stage,E008,Briware,Télécoms,6,1353,False
+2024,FISE,stage,E025,Yolnet,Santé,2,1469,True
+2024,FISE,stage,E031,Alttech Groupe,Conseil et ESN,5,842,False
+2024,FISE,stage,E035,Silnet Groupe,Santé,5,1359,True
+2024,FISE,stage,E017,Dordata,Énergie,2,1009,True
+2024,FISE,stage,E025,Yolnet,Santé,6,966,False
+2024,FISE,stage,E019,Galworks,Transport,3,1007,False
+2024,FISE,stage,E010,Cersys,Énergie,6,1311,False
+2024,FISE,stage,E019,Galworks,Transport,4,1388,True
+2024,FISE,stage,E027,Nexdata,Banque et assurance,3,1483,False
+2024,FISE,stage,E011,Voxtech,Télécoms,3,1110,False
+2024,FISE,stage,E017,Dordata,Énergie,5,789,False
+2024,FISE,stage,E040,Cersys Groupe,Industrie,5,1579,False
+2024,FISE,stage,E038,Briware Groupe,Santé,6,761,False
+2024,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,965,False
+2024,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,4,1474,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,6,1330,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,2,912,False
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1364,False
+2024,FISE,stage,E013,Pyrlogic,Énergie,3,1329,False
+2024,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,5,1191,True
+2024,FISE,stage,E006,Kalnova,Santé,3,1560,False
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,2,1261,False
+2024,FISE,stage,E016,Mirnova,Conseil et ESN,4,1047,True
+2024,FISE,stage,E023,Tallogic,Industrie,2,1372,True
+2024,FISE,stage,E028,Obrware,Conseil et ESN,3,1516,False
+2024,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,3,1594,False
+2024,FISE,stage,E040,Cersys Groupe,Industrie,6,1484,False
+2024,FISE,stage,E027,Nexdata,Banque et assurance,5,1216,False
+2024,FISE,stage,E027,Nexdata,Banque et assurance,2,701,True
+2024,FISE,stage,E035,Silnet Groupe,Santé,5,1050,True
+2024,FISE,stage,E019,Galworks,Transport,6,1191,False
+2024,FISE,stage,E027,Nexdata,Banque et assurance,6,1288,True
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,6,1196,False
+2024,FISE,stage,E031,Alttech Groupe,Conseil et ESN,4,1164,False
+2024,FISE,stage,E007,Temdata,Énergie,5,736,False
+2024,FISE,stage,E038,Briware Groupe,Santé,2,893,True
+2024,FISE,stage,E036,Kalnova Groupe,Santé,6,968,False
+2024,FISE,stage,E031,Alttech Groupe,Conseil et ESN,2,1366,False
+2024,FISE,stage,E035,Silnet Groupe,Santé,4,1001,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,2,810,True
+2024,FISE,stage,E014,Arksoft,Conseil et ESN,4,1153,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,5,1576,False
+2024,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,3,842,False
+2024,FISE,stage,E027,Nexdata,Banque et assurance,6,1307,True
+2024,FISE,stage,E015,Zennet,Commerce,3,1600,False
+2024,FISE,stage,E036,Kalnova Groupe,Santé,2,1410,False
+2024,FISE,stage,E003,Vellogic,Banque et assurance,6,1267,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,3,1572,True
+2024,FISE,stage,E040,Cersys Groupe,Industrie,4,699,True
+2024,FISE,stage,E015,Zennet,Commerce,6,1082,True
+2024,FISE,stage,E027,Nexdata,Banque et assurance,3,1502,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,4,1478,True
+2024,FISE,stage,E032,Norlab Groupe,Industrie,6,1199,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,4,1484,False
+2024,FISE,stage,E007,Temdata,Énergie,3,1525,False
+2024,FISE,stage,E015,Zennet,Commerce,3,1232,False
+2024,FISE,stage,E011,Voxtech,Télécoms,3,1205,False
+2024,FISE,stage,E026,Wennova,Énergie,3,713,True
+2024,FISE,stage,E014,Arksoft,Conseil et ESN,6,1206,False
+2024,FISE,stage,E007,Temdata,Énergie,6,1558,False
+2024,FISE,stage,E006,Kalnova,Santé,6,769,True
+2024,FISE,stage,E015,Zennet,Commerce,4,739,True
+2024,FISE,stage,E008,Briware,Télécoms,4,1237,True
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,4,1435,False
+2024,FISE,stage,E039,Lumworks Groupe,Secteur public,5,1158,True
+2024,FISE,stage,E029,Pelworks,Secteur public,5,1151,False
+2024,FISE,stage,E035,Silnet Groupe,Santé,5,974,False
+2024,FISE,stage,E015,Zennet,Commerce,6,1113,False
+2024,FISE,stage,E006,Kalnova,Santé,6,1253,True
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,6,1023,False
+2024,FISE,stage,E017,Dordata,Énergie,4,1255,True
+2024,FISE,stage,E029,Pelworks,Secteur public,6,745,False
+2024,FISE,stage,E040,Cersys Groupe,Industrie,6,1371,False
+2024,FISE,stage,E035,Silnet Groupe,Santé,3,782,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,6,1282,False
+2024,FISE,stage,E014,Arksoft,Conseil et ESN,6,1266,False
+2024,FISE,stage,E029,Pelworks,Secteur public,6,745,False
+2024,FISE,stage,E009,Lumworks,Transport,5,1042,True
+2024,FISE,stage,E038,Briware Groupe,Santé,5,1051,False
+2024,FISE,stage,E006,Kalnova,Santé,5,1285,False
+2024,FISE,stage,E024,Uxsoft,Conseil et ESN,4,1197,False
+2024,FISE,stage,E002,Norlab,Conseil et ESN,4,1355,True
+2024,FISE,stage,E013,Pyrlogic,Énergie,6,1021,False
+2024,FISE,stage,E005,Silnet,Énergie,3,936,False
+2024,FISE,stage,E022,Rhelab,Conseil et ESN,6,1358,False
+2024,FISE,stage,E010,Cersys,Énergie,6,1072,True
+2024,FISE,stage,E040,Cersys Groupe,Industrie,6,1428,True
+2024,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1305,False
+2024,FISEA,alternance,E035,Silnet Groupe,Santé,12,1238,False
+2024,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1189,False
+2024,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1357,False
+2024,FISEA,alternance,E013,Pyrlogic,Énergie,12,1065,True
+2024,FISEA,alternance,E002,Norlab,Conseil et ESN,12,889,False
+2024,FISEA,alternance,E005,Silnet,Énergie,12,1137,False
+2024,FISEA,alternance,E016,Mirnova,Conseil et ESN,12,1386,False
+2024,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,765,False
+2024,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,700,False
+2024,FISEA,alternance,E023,Tallogic,Industrie,12,1596,True
+2024,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1195,True
+2024,FISEA,alternance,E035,Silnet Groupe,Santé,12,788,False
+2024,FISEA,alternance,E029,Pelworks,Secteur public,12,1477,True
+2024,FISEA,alternance,E007,Temdata,Énergie,12,1535,True
+2024,FISEA,alternance,E007,Temdata,Énergie,12,1384,False
+2024,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1411,False
+2024,FISEA,alternance,E016,Mirnova,Conseil et ESN,12,1091,True
+2024,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1546,True
+2024,FISEA,alternance,E006,Kalnova,Santé,12,1586,True
+2024,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1322,False
+2024,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1483,True
+2024,FISEA,alternance,E036,Kalnova Groupe,Santé,12,925,False
+2024,FISEA,alternance,E023,Tallogic,Industrie,12,1068,True
+2024,FISEA,alternance,E040,Cersys Groupe,Industrie,12,1293,False
+2024,FISEA,alternance,E010,Cersys,Énergie,12,1312,False
+2024,FISEA,alternance,E025,Yolnet,Santé,12,1466,False
+2024,FISEA,alternance,E023,Tallogic,Industrie,12,889,False
+2024,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1459,False
+2024,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1505,True
+2024,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1163,True
+2024,FISEA,alternance,E008,Briware,Télécoms,12,1454,False
+2024,FISEA,alternance,E019,Galworks,Transport,12,1241,True
+2024,FISEA,alternance,E027,Nexdata,Banque et assurance,12,836,False
+2024,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,850,True
+2024,FISEA,alternance,E011,Voxtech,Télécoms,12,865,False
+2024,FISEA,alternance,E004,Orisoft,Santé,12,1262,True
+2024,FISEA,alternance,E025,Yolnet,Santé,12,1012,False
+2024,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,1390,True
+2024,FISEA,alternance,E035,Silnet Groupe,Santé,12,1059,True
+2024,FISEA,alternance,E029,Pelworks,Secteur public,12,1196,True
+2024,FISEA,alternance,E003,Vellogic,Banque et assurance,12,746,True
+2024,FISEA,alternance,E035,Silnet Groupe,Santé,12,946,False
+2024,FISEA,alternance,E017,Dordata,Énergie,12,804,False
+2024,FISEA,alternance,E007,Temdata,Énergie,12,871,False
+2024,FISEA,alternance,E007,Temdata,Énergie,12,1030,False
+2024,FISEA,alternance,E004,Orisoft,Santé,12,860,False
+2024,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,955,True
+2024,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1219,False
+2024,FISEA,alternance,E016,Mirnova,Conseil et ESN,12,940,False
+2024,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1052,False
+2024,FISEA,alternance,E026,Wennova,Énergie,12,984,True
+2024,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,1358,False
+2024,FISEA,alternance,E038,Briware Groupe,Santé,12,1307,False
+2024,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,821,False
+2024,FISEA,alternance,E016,Mirnova,Conseil et ESN,12,1338,True
+2024,FISEA,alternance,E015,Zennet,Commerce,12,708,True
+2024,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1503,False
+2024,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1173,True
+2024,FISEA,alternance,E006,Kalnova,Santé,12,1410,False
+2024,FISEA,alternance,E017,Dordata,Énergie,12,1237,True
+2024,FISEA,alternance,E016,Mirnova,Conseil et ESN,12,1506,False
+2024,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1347,False
+2024,FISEA,alternance,E010,Cersys,Énergie,12,1510,True
+2024,FISEA,alternance,E040,Cersys Groupe,Industrie,12,836,False
+2024,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1458,False
+2024,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,933,False
+2024,FISEA,alternance,E002,Norlab,Conseil et ESN,12,944,False
+2024,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1569,False
+2024,FISEA,alternance,E006,Kalnova,Santé,12,823,False
+2024,FISEA,alternance,E036,Kalnova Groupe,Santé,12,701,False
+2024,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1531,True
+2024,FISEA,alternance,E035,Silnet Groupe,Santé,12,733,False
+2024,FISEA,alternance,E007,Temdata,Énergie,12,1182,False
+2024,FISEA,alternance,E029,Pelworks,Secteur public,12,1012,True
+2024,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1196,True
+2024,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1016,False
+2024,FISEA,alternance,E007,Temdata,Énergie,12,1280,False
+2024,FISEA,alternance,E029,Pelworks,Secteur public,12,961,False
+2024,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1123,False
+2024,FISEA,alternance,E038,Briware Groupe,Santé,12,1553,False
+2024,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,830,True
+2024,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,1307,True
+2024,FISEA,alternance,E025,Yolnet,Santé,12,997,False
+2024,FISEA,alternance,E035,Silnet Groupe,Santé,12,1242,False
+2024,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1481,False
+2024,FISEA,alternance,E006,Kalnova,Santé,12,699,False
+2024,FISEA,alternance,E028,Obrware,Conseil et ESN,12,971,True
+2024,FISEA,alternance,E011,Voxtech,Télécoms,12,1613,True
+2024,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1533,False
+2024,FISEA,alternance,E027,Nexdata,Banque et assurance,12,894,False
+2024,FISEA,alternance,E001,Alttech,Conseil et ESN,12,1058,False
+2024,FISEA,alternance,E005,Silnet,Énergie,12,1536,False
+2024,FISEA,alternance,E007,Temdata,Énergie,12,732,True
+2024,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,795,True
+2024,FISEA,alternance,E017,Dordata,Énergie,12,1072,False
+2024,FISEA,alternance,E040,Cersys Groupe,Industrie,12,1073,False
+2024,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1515,True
+2024,Master,stage,E026,Wennova,Énergie,4,1575,False
+2024,Master,stage,E022,Rhelab,Conseil et ESN,6,1557,False
+2024,Master,stage,E038,Briware Groupe,Santé,6,1091,False
+2024,Master,stage,E019,Galworks,Transport,3,1010,False
+2024,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1502,True
+2024,Master,stage,E023,Tallogic,Industrie,6,1296,False
+2024,Master,stage,E020,Istersys,Éditeur logiciel,6,703,False
+2024,Master,stage,E033,Vellogic Groupe,Éditeur logiciel,6,752,True
+2024,Master,stage,E027,Nexdata,Banque et assurance,2,1013,False
+2024,Master,stage,E012,Hallab,Commerce,4,1018,False
+2024,Master,stage,E010,Cersys,Énergie,2,780,False
+2024,Master,stage,E007,Temdata,Énergie,6,1576,False
+2024,Master,stage,E022,Rhelab,Conseil et ESN,2,1398,False
+2024,Master,stage,E025,Yolnet,Santé,6,1085,False
+2024,Master,stage,E031,Alttech Groupe,Conseil et ESN,2,1244,False
+2024,Master,stage,E029,Pelworks,Secteur public,4,1288,True
+2024,Master,stage,E014,Arksoft,Conseil et ESN,2,1049,False
+2024,Master,stage,E003,Vellogic,Banque et assurance,6,1119,False
+2024,Master,stage,E039,Lumworks Groupe,Secteur public,6,993,False
+2024,Master,stage,E007,Temdata,Énergie,6,991,False
+2024,Master,stage,E014,Arksoft,Conseil et ESN,2,710,False
+2024,Master,stage,E022,Rhelab,Conseil et ESN,6,1399,True
+2024,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,6,696,False
+2024,Master,stage,E031,Alttech Groupe,Conseil et ESN,3,969,False
+2024,Master,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1476,False
+2024,Master,stage,E005,Silnet,Énergie,2,1233,False
+2024,Master,stage,E012,Hallab,Commerce,4,1072,False
+2024,Master,stage,E029,Pelworks,Secteur public,6,738,True
+2024,Master,stage,E003,Vellogic,Banque et assurance,2,742,False
+2024,Master,stage,E039,Lumworks Groupe,Secteur public,6,872,False
+2024,Master,stage,E015,Zennet,Commerce,6,1319,True
+2024,Master,stage,E003,Vellogic,Banque et assurance,4,950,True
+2024,Master,stage,E007,Temdata,Énergie,3,1454,True
+2025,FISE,stage,E028,Obrware,Conseil et ESN,6,1309,False
+2025,FISE,stage,E006,Kalnova,Santé,5,1064,False
+2025,FISE,stage,E019,Galworks,Transport,3,1198,True
+2025,FISE,stage,E010,Cersys,Énergie,3,1655,False
+2025,FISE,stage,E019,Galworks,Transport,2,739,False
+2025,FISE,stage,E008,Briware,Télécoms,4,811,False
+2025,FISE,stage,E018,Fenware,Transport,5,885,True
+2025,FISE,stage,E013,Pyrlogic,Énergie,6,1185,False
+2025,FISE,stage,E010,Cersys,Énergie,5,1321,True
+2025,FISE,stage,E002,Norlab,Conseil et ESN,6,731,False
+2025,FISE,stage,E040,Cersys Groupe,Industrie,3,1352,False
+2025,FISE,stage,E019,Galworks,Transport,2,923,False
+2025,FISE,stage,E023,Tallogic,Industrie,4,1199,True
+2025,FISE,stage,E025,Yolnet,Santé,6,1221,True
+2025,FISE,stage,E010,Cersys,Énergie,6,1555,True
+2025,FISE,stage,E005,Silnet,Énergie,6,1244,True
+2025,FISE,stage,E007,Temdata,Énergie,2,1161,False
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,4,1035,False
+2025,FISE,stage,E004,Orisoft,Santé,4,1500,False
+2025,FISE,stage,E019,Galworks,Transport,4,990,False
+2025,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,6,879,True
+2025,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1009,False
+2025,FISE,stage,E017,Dordata,Énergie,6,916,False
+2025,FISE,stage,E040,Cersys Groupe,Industrie,3,1397,True
+2025,FISE,stage,E036,Kalnova Groupe,Santé,6,1670,False
+2025,FISE,stage,E017,Dordata,Énergie,6,1530,True
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,2,1629,True
+2025,FISE,stage,E035,Silnet Groupe,Santé,4,1502,True
+2025,FISE,stage,E026,Wennova,Énergie,6,1527,False
+2025,FISE,stage,E014,Arksoft,Conseil et ESN,3,1085,False
+2025,FISE,stage,E007,Temdata,Énergie,2,782,True
+2025,FISE,stage,E008,Briware,Télécoms,3,1518,False
+2025,FISE,stage,E040,Cersys Groupe,Industrie,6,984,False
+2025,FISE,stage,E004,Orisoft,Santé,5,1490,False
+2025,FISE,stage,E029,Pelworks,Secteur public,3,1540,False
+2025,FISE,stage,E026,Wennova,Énergie,2,1516,False
+2025,FISE,stage,E029,Pelworks,Secteur public,4,1168,False
+2025,FISE,stage,E002,Norlab,Conseil et ESN,6,1225,False
+2025,FISE,stage,E020,Istersys,Éditeur logiciel,4,922,False
+2025,FISE,stage,E008,Briware,Télécoms,2,1086,False
+2025,FISE,stage,E014,Arksoft,Conseil et ESN,6,988,False
+2025,FISE,stage,E002,Norlab,Conseil et ESN,5,1356,False
+2025,FISE,stage,E007,Temdata,Énergie,5,1574,True
+2025,FISE,stage,E008,Briware,Télécoms,6,1362,True
+2025,FISE,stage,E037,Temdata Groupe,Industrie,2,1674,False
+2025,FISE,stage,E022,Rhelab,Conseil et ESN,3,1446,False
+2025,FISE,stage,E023,Tallogic,Industrie,6,1024,False
+2025,FISE,stage,E004,Orisoft,Santé,6,751,True
+2025,FISE,stage,E017,Dordata,Énergie,6,1582,False
+2025,FISE,stage,E040,Cersys Groupe,Industrie,2,1566,False
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,3,1120,False
+2025,FISE,stage,E021,Quotech,Industrie,2,810,False
+2025,FISE,stage,E023,Tallogic,Industrie,6,1049,True
+2025,FISE,stage,E023,Tallogic,Industrie,3,918,False
+2025,FISE,stage,E029,Pelworks,Secteur public,6,1046,False
+2025,FISE,stage,E015,Zennet,Commerce,4,756,True
+2025,FISE,stage,E006,Kalnova,Santé,6,1341,True
+2025,FISE,stage,E012,Hallab,Commerce,5,1156,False
+2025,FISE,stage,E035,Silnet Groupe,Santé,6,1633,False
+2025,FISE,stage,E018,Fenware,Transport,6,1113,False
+2025,FISE,stage,E035,Silnet Groupe,Santé,6,1539,False
+2025,FISE,stage,E004,Orisoft,Santé,6,1438,False
+2025,FISE,stage,E028,Obrware,Conseil et ESN,3,1583,True
+2025,FISE,stage,E003,Vellogic,Banque et assurance,6,1633,False
+2025,FISE,stage,E015,Zennet,Commerce,6,1342,False
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,4,1031,False
+2025,FISE,stage,E036,Kalnova Groupe,Santé,6,1463,False
+2025,FISE,stage,E017,Dordata,Énergie,2,774,False
+2025,FISE,stage,E026,Wennova,Énergie,6,1646,True
+2025,FISE,stage,E039,Lumworks Groupe,Secteur public,4,901,False
+2025,FISE,stage,E040,Cersys Groupe,Industrie,6,1126,True
+2025,FISE,stage,E028,Obrware,Conseil et ESN,5,1406,True
+2025,FISE,stage,E018,Fenware,Transport,3,858,True
+2025,FISE,stage,E030,Sabsys,Conseil et ESN,5,916,False
+2025,FISE,stage,E036,Kalnova Groupe,Santé,6,1623,False
+2025,FISE,stage,E006,Kalnova,Santé,4,1655,False
+2025,FISE,stage,E011,Voxtech,Télécoms,2,1037,False
+2025,FISE,stage,E023,Tallogic,Industrie,5,777,False
+2025,FISE,stage,E029,Pelworks,Secteur public,6,1528,False
+2025,FISE,stage,E017,Dordata,Énergie,2,1075,False
+2025,FISE,stage,E027,Nexdata,Banque et assurance,2,1040,False
+2025,FISE,stage,E027,Nexdata,Banque et assurance,3,1004,True
+2025,FISE,stage,E008,Briware,Télécoms,6,1007,True
+2025,FISE,stage,E014,Arksoft,Conseil et ESN,6,1081,False
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1029,False
+2025,FISE,stage,E004,Orisoft,Santé,2,1312,True
+2025,FISE,stage,E024,Uxsoft,Conseil et ESN,4,809,False
+2025,FISE,stage,E007,Temdata,Énergie,2,964,True
+2025,FISE,stage,E007,Temdata,Énergie,2,1287,False
+2025,FISE,stage,E028,Obrware,Conseil et ESN,2,1484,False
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,3,1464,False
+2025,FISE,stage,E007,Temdata,Énergie,6,1188,False
+2025,FISE,stage,E005,Silnet,Énergie,5,1648,False
+2025,FISE,stage,E024,Uxsoft,Conseil et ESN,5,1139,True
+2025,FISE,stage,E014,Arksoft,Conseil et ESN,6,1105,False
+2025,FISE,stage,E014,Arksoft,Conseil et ESN,6,853,False
+2025,FISE,stage,E003,Vellogic,Banque et assurance,5,1423,True
+2025,FISE,stage,E035,Silnet Groupe,Santé,3,1427,False
+2025,FISE,stage,E017,Dordata,Énergie,2,1434,False
+2025,FISE,stage,E026,Wennova,Énergie,4,888,True
+2025,FISE,stage,E035,Silnet Groupe,Santé,2,1172,False
+2025,FISE,stage,E006,Kalnova,Santé,3,915,False
+2025,FISE,stage,E015,Zennet,Commerce,2,1633,False
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,2,1574,True
+2025,FISE,stage,E019,Galworks,Transport,4,1084,True
+2025,FISE,stage,E008,Briware,Télécoms,4,1464,True
+2025,FISE,stage,E035,Silnet Groupe,Santé,6,863,False
+2025,FISE,stage,E019,Galworks,Transport,5,1614,False
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,3,1389,False
+2025,FISE,stage,E024,Uxsoft,Conseil et ESN,6,839,False
+2025,FISE,stage,E002,Norlab,Conseil et ESN,4,1604,False
+2025,FISE,stage,E036,Kalnova Groupe,Santé,6,893,True
+2025,FISE,stage,E036,Kalnova Groupe,Santé,6,1003,False
+2025,FISE,stage,E010,Cersys,Énergie,6,1178,False
+2025,FISE,stage,E019,Galworks,Transport,6,1463,False
+2025,FISE,stage,E027,Nexdata,Banque et assurance,6,1603,False
+2025,FISE,stage,E022,Rhelab,Conseil et ESN,5,835,False
+2025,FISE,stage,E013,Pyrlogic,Énergie,5,1127,False
+2025,FISE,stage,E038,Briware Groupe,Santé,4,988,False
+2025,FISE,stage,E035,Silnet Groupe,Santé,6,1328,True
+2025,FISE,stage,E026,Wennova,Énergie,6,1466,True
+2025,FISE,stage,E029,Pelworks,Secteur public,6,949,True
+2025,FISE,stage,E008,Briware,Télécoms,5,1183,True
+2025,FISE,stage,E022,Rhelab,Conseil et ESN,4,1360,False
+2025,FISE,stage,E028,Obrware,Conseil et ESN,2,1071,True
+2025,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1242,True
+2025,FISE,stage,E008,Briware,Télécoms,4,798,False
+2025,FISE,stage,E028,Obrware,Conseil et ESN,6,785,True
+2025,FISE,stage,E021,Quotech,Industrie,6,1610,False
+2025,FISE,stage,E007,Temdata,Énergie,5,1063,False
+2025,FISE,stage,E010,Cersys,Énergie,6,858,False
+2025,FISE,stage,E003,Vellogic,Banque et assurance,2,1597,False
+2025,FISE,stage,E027,Nexdata,Banque et assurance,4,1298,False
+2025,FISE,stage,E007,Temdata,Énergie,5,1541,True
+2025,FISE,stage,E039,Lumworks Groupe,Secteur public,5,1084,False
+2025,FISE,stage,E037,Temdata Groupe,Industrie,5,756,False
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1182,False
+2025,FISE,stage,E025,Yolnet,Santé,6,1158,True
+2025,FISE,stage,E039,Lumworks Groupe,Secteur public,3,857,False
+2025,FISE,stage,E035,Silnet Groupe,Santé,6,1164,True
+2025,FISE,stage,E025,Yolnet,Santé,2,1284,False
+2025,FISE,stage,E004,Orisoft,Santé,6,1026,False
+2025,FISE,stage,E037,Temdata Groupe,Industrie,6,1065,True
+2025,FISE,stage,E022,Rhelab,Conseil et ESN,4,1278,False
+2025,FISE,stage,E002,Norlab,Conseil et ESN,5,1458,False
+2025,FISE,stage,E035,Silnet Groupe,Santé,4,1585,True
+2025,FISE,stage,E023,Tallogic,Industrie,6,930,True
+2025,FISE,stage,E038,Briware Groupe,Santé,6,930,True
+2025,FISE,stage,E023,Tallogic,Industrie,4,765,False
+2025,FISE,stage,E023,Tallogic,Industrie,5,739,False
+2025,FISE,stage,E008,Briware,Télécoms,6,768,False
+2025,FISE,stage,E038,Briware Groupe,Santé,6,1500,False
+2025,FISE,stage,E039,Lumworks Groupe,Secteur public,3,838,True
+2025,FISE,stage,E025,Yolnet,Santé,3,1392,False
+2025,FISE,stage,E003,Vellogic,Banque et assurance,2,1338,True
+2025,FISE,stage,E036,Kalnova Groupe,Santé,5,1132,False
+2025,FISE,stage,E029,Pelworks,Secteur public,5,931,False
+2025,FISE,stage,E040,Cersys Groupe,Industrie,4,910,False
+2025,FISE,stage,E002,Norlab,Conseil et ESN,3,959,False
+2025,FISE,stage,E012,Hallab,Commerce,3,844,False
+2025,FISE,stage,E027,Nexdata,Banque et assurance,2,861,False
+2025,FISE,stage,E038,Briware Groupe,Santé,6,1587,True
+2025,FISE,stage,E019,Galworks,Transport,3,874,False
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1065,False
+2025,FISE,stage,E030,Sabsys,Conseil et ESN,5,1640,True
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,791,False
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,5,1337,False
+2025,FISE,stage,E017,Dordata,Énergie,5,754,True
+2025,FISE,stage,E016,Mirnova,Conseil et ESN,6,1555,False
+2025,FISE,stage,E014,Arksoft,Conseil et ESN,3,1534,True
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,2,1545,False
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1158,False
+2025,FISE,stage,E029,Pelworks,Secteur public,6,1334,False
+2025,FISE,stage,E025,Yolnet,Santé,6,919,False
+2025,FISE,stage,E001,Alttech,Conseil et ESN,6,1123,True
+2025,FISE,stage,E002,Norlab,Conseil et ESN,3,1260,False
+2025,FISE,stage,E026,Wennova,Énergie,4,1406,False
+2025,FISE,stage,E005,Silnet,Énergie,6,1058,True
+2025,FISE,stage,E008,Briware,Télécoms,3,950,False
+2025,FISE,stage,E015,Zennet,Commerce,6,775,False
+2025,FISE,stage,E040,Cersys Groupe,Industrie,3,1307,True
+2025,FISE,stage,E022,Rhelab,Conseil et ESN,5,741,False
+2025,FISE,stage,E023,Tallogic,Industrie,4,1356,True
+2025,FISE,stage,E028,Obrware,Conseil et ESN,6,1322,False
+2025,FISE,stage,E007,Temdata,Énergie,3,932,False
+2025,FISE,stage,E001,Alttech,Conseil et ESN,6,732,False
+2025,FISE,stage,E038,Briware Groupe,Santé,6,1024,True
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,835,False
+2025,FISE,stage,E038,Briware Groupe,Santé,2,884,False
+2025,FISE,stage,E036,Kalnova Groupe,Santé,5,985,True
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,3,1064,True
+2025,FISE,stage,E007,Temdata,Énergie,3,946,False
+2025,FISE,stage,E040,Cersys Groupe,Industrie,4,1584,True
+2025,FISE,stage,E020,Istersys,Éditeur logiciel,6,834,False
+2025,FISE,stage,E019,Galworks,Transport,6,1061,False
+2025,FISE,stage,E029,Pelworks,Secteur public,2,1416,False
+2025,FISE,stage,E023,Tallogic,Industrie,2,949,False
+2025,FISE,stage,E039,Lumworks Groupe,Secteur public,6,1000,True
+2025,FISE,stage,E026,Wennova,Énergie,2,1283,False
+2025,FISE,stage,E011,Voxtech,Télécoms,6,1091,False
+2025,FISE,stage,E017,Dordata,Énergie,4,964,False
+2025,FISE,stage,E029,Pelworks,Secteur public,3,1615,True
+2025,FISE,stage,E021,Quotech,Industrie,3,757,True
+2025,FISE,stage,E010,Cersys,Énergie,5,1550,False
+2025,FISE,stage,E006,Kalnova,Santé,2,984,False
+2025,FISE,stage,E022,Rhelab,Conseil et ESN,6,1489,False
+2025,FISE,stage,E001,Alttech,Conseil et ESN,6,1068,False
+2025,FISE,stage,E009,Lumworks,Transport,6,1475,False
+2025,FISE,stage,E014,Arksoft,Conseil et ESN,6,1674,True
+2025,FISE,stage,E026,Wennova,Énergie,4,1348,False
+2025,FISE,stage,E029,Pelworks,Secteur public,6,1024,False
+2025,FISE,stage,E028,Obrware,Conseil et ESN,6,1657,True
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,766,True
+2025,FISE,stage,E023,Tallogic,Industrie,3,1287,True
+2025,FISE,stage,E003,Vellogic,Banque et assurance,5,1471,True
+2025,FISE,stage,E007,Temdata,Énergie,6,1148,False
+2025,FISE,stage,E029,Pelworks,Secteur public,5,1375,False
+2025,FISE,stage,E012,Hallab,Commerce,2,1234,False
+2025,FISE,stage,E026,Wennova,Énergie,6,1191,False
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1028,False
+2025,FISE,stage,E017,Dordata,Énergie,3,1313,True
+2025,FISE,stage,E031,Alttech Groupe,Conseil et ESN,6,1176,True
+2025,FISE,stage,E038,Briware Groupe,Santé,4,927,False
+2025,FISE,stage,E039,Lumworks Groupe,Secteur public,4,1075,False
+2025,FISE,stage,E025,Yolnet,Santé,6,1409,True
+2025,FISE,stage,E022,Rhelab,Conseil et ESN,6,833,True
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,6,1599,False
+2025,FISE,stage,E039,Lumworks Groupe,Secteur public,5,790,True
+2025,FISE,stage,E004,Orisoft,Santé,6,1635,False
+2025,FISE,stage,E003,Vellogic,Banque et assurance,6,1056,False
+2025,FISE,stage,E037,Temdata Groupe,Industrie,6,1467,True
+2025,FISE,stage,E006,Kalnova,Santé,5,1632,True
+2025,FISE,stage,E026,Wennova,Énergie,6,1538,True
+2025,FISE,stage,E011,Voxtech,Télécoms,4,847,False
+2025,FISE,stage,E036,Kalnova Groupe,Santé,5,941,False
+2025,FISE,stage,E015,Zennet,Commerce,6,1635,False
+2025,FISE,stage,E028,Obrware,Conseil et ESN,2,1094,False
+2025,FISE,stage,E036,Kalnova Groupe,Santé,6,1017,False
+2025,FISE,stage,E038,Briware Groupe,Santé,4,1066,False
+2025,FISE,stage,E006,Kalnova,Santé,4,1511,True
+2025,FISE,stage,E036,Kalnova Groupe,Santé,6,1075,False
+2025,FISE,stage,E025,Yolnet,Santé,6,1059,False
+2025,FISE,stage,E004,Orisoft,Santé,6,1086,True
+2025,FISE,stage,E017,Dordata,Énergie,6,1233,True
+2025,FISE,stage,E027,Nexdata,Banque et assurance,6,1440,False
+2025,FISE,stage,E029,Pelworks,Secteur public,6,746,False
+2025,FISE,stage,E038,Briware Groupe,Santé,6,729,False
+2025,FISE,stage,E005,Silnet,Énergie,3,1614,True
+2025,FISE,stage,E024,Uxsoft,Conseil et ESN,6,1366,False
+2025,FISE,stage,E004,Orisoft,Santé,5,728,False
+2025,FISE,stage,E030,Sabsys,Conseil et ESN,5,1026,False
+2025,FISE,stage,E036,Kalnova Groupe,Santé,5,1373,True
+2025,FISE,stage,E004,Orisoft,Santé,2,1366,True
+2025,FISE,stage,E035,Silnet Groupe,Santé,6,963,True
+2025,FISE,stage,E002,Norlab,Conseil et ESN,3,767,True
+2025,FISE,stage,E025,Yolnet,Santé,5,1571,True
+2025,FISE,stage,E038,Briware Groupe,Santé,6,1050,False
+2025,FISE,stage,E014,Arksoft,Conseil et ESN,4,1310,False
+2025,FISE,stage,E036,Kalnova Groupe,Santé,4,1469,False
+2025,FISE,stage,E017,Dordata,Énergie,6,1381,False
+2025,FISE,stage,E007,Temdata,Énergie,2,1065,False
+2025,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,3,934,True
+2025,FISE,stage,E023,Tallogic,Industrie,3,820,False
+2025,FISE,stage,E027,Nexdata,Banque et assurance,5,808,False
+2025,FISE,stage,E034,Orisoft Groupe,Éditeur logiciel,4,1637,False
+2025,FISE,stage,E010,Cersys,Énergie,5,1092,True
+2025,FISE,stage,E026,Wennova,Énergie,6,1579,True
+2025,FISE,stage,E006,Kalnova,Santé,6,1070,False
+2025,FISE,stage,E033,Vellogic Groupe,Éditeur logiciel,5,816,True
+2025,FISE,stage,E027,Nexdata,Banque et assurance,6,1196,True
+2025,FISE,stage,E036,Kalnova Groupe,Santé,2,1490,True
+2025,FISEA,alternance,E040,Cersys Groupe,Industrie,12,1303,False
+2025,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1317,False
+2025,FISEA,alternance,E010,Cersys,Énergie,12,1363,False
+2025,FISEA,alternance,E038,Briware Groupe,Santé,12,1347,False
+2025,FISEA,alternance,E023,Tallogic,Industrie,12,1316,True
+2025,FISEA,alternance,E036,Kalnova Groupe,Santé,12,954,True
+2025,FISEA,alternance,E016,Mirnova,Conseil et ESN,12,842,False
+2025,FISEA,alternance,E010,Cersys,Énergie,12,1514,True
+2025,FISEA,alternance,E027,Nexdata,Banque et assurance,12,991,True
+2025,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1235,False
+2025,FISEA,alternance,E023,Tallogic,Industrie,12,1088,True
+2025,FISEA,alternance,E005,Silnet,Énergie,12,1541,False
+2025,FISEA,alternance,E012,Hallab,Commerce,12,1208,False
+2025,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,1597,True
+2025,FISEA,alternance,E025,Yolnet,Santé,12,810,True
+2025,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1239,False
+2025,FISEA,alternance,E004,Orisoft,Santé,12,1387,True
+2025,FISEA,alternance,E029,Pelworks,Secteur public,12,1312,False
+2025,FISEA,alternance,E027,Nexdata,Banque et assurance,12,855,False
+2025,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1283,True
+2025,FISEA,alternance,E035,Silnet Groupe,Santé,12,1238,False
+2025,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,1158,False
+2025,FISEA,alternance,E029,Pelworks,Secteur public,12,1208,True
+2025,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,1390,False
+2025,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1648,False
+2025,FISEA,alternance,E016,Mirnova,Conseil et ESN,12,870,False
+2025,FISEA,alternance,E026,Wennova,Énergie,12,930,True
+2025,FISEA,alternance,E006,Kalnova,Santé,12,1377,False
+2025,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1059,False
+2025,FISEA,alternance,E040,Cersys Groupe,Industrie,12,1459,False
+2025,FISEA,alternance,E015,Zennet,Commerce,12,1174,True
+2025,FISEA,alternance,E010,Cersys,Énergie,12,1133,False
+2025,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1462,False
+2025,FISEA,alternance,E019,Galworks,Transport,12,1460,False
+2025,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1303,False
+2025,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1467,False
+2025,FISEA,alternance,E008,Briware,Télécoms,12,1140,False
+2025,FISEA,alternance,E007,Temdata,Énergie,12,1607,True
+2025,FISEA,alternance,E008,Briware,Télécoms,12,1364,False
+2025,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,1297,False
+2025,FISEA,alternance,E002,Norlab,Conseil et ESN,12,1576,False
+2025,FISEA,alternance,E026,Wennova,Énergie,12,1542,True
+2025,FISEA,alternance,E017,Dordata,Énergie,12,1562,False
+2025,FISEA,alternance,E028,Obrware,Conseil et ESN,12,949,False
+2025,FISEA,alternance,E025,Yolnet,Santé,12,1430,False
+2025,FISEA,alternance,E008,Briware,Télécoms,12,1016,False
+2025,FISEA,alternance,E006,Kalnova,Santé,12,884,True
+2025,FISEA,alternance,E010,Cersys,Énergie,12,1050,False
+2025,FISEA,alternance,E006,Kalnova,Santé,12,876,False
+2025,FISEA,alternance,E020,Istersys,Éditeur logiciel,12,1583,False
+2025,FISEA,alternance,E021,Quotech,Industrie,12,1678,False
+2025,FISEA,alternance,E026,Wennova,Énergie,12,946,True
+2025,FISEA,alternance,E004,Orisoft,Santé,12,960,False
+2025,FISEA,alternance,E011,Voxtech,Télécoms,12,1052,True
+2025,FISEA,alternance,E035,Silnet Groupe,Santé,12,1382,False
+2025,FISEA,alternance,E023,Tallogic,Industrie,12,1088,False
+2025,FISEA,alternance,E008,Briware,Télécoms,12,1394,False
+2025,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,1580,False
+2025,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,1383,True
+2025,FISEA,alternance,E005,Silnet,Énergie,12,1184,False
+2025,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1272,True
+2025,FISEA,alternance,E036,Kalnova Groupe,Santé,12,1187,False
+2025,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1306,False
+2025,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1298,True
+2025,FISEA,alternance,E029,Pelworks,Secteur public,12,779,False
+2025,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1162,True
+2025,FISEA,alternance,E013,Pyrlogic,Énergie,12,1636,True
+2025,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,1485,False
+2025,FISEA,alternance,E017,Dordata,Énergie,12,1565,False
+2025,FISEA,alternance,E007,Temdata,Énergie,12,1332,False
+2025,FISEA,alternance,E018,Fenware,Transport,12,1023,True
+2025,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1347,True
+2025,FISEA,alternance,E007,Temdata,Énergie,12,833,False
+2025,FISEA,alternance,E022,Rhelab,Conseil et ESN,12,1418,True
+2025,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,1480,False
+2025,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,1588,True
+2025,FISEA,alternance,E017,Dordata,Énergie,12,1674,False
+2025,FISEA,alternance,E033,Vellogic Groupe,Éditeur logiciel,12,980,False
+2025,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,994,True
+2025,FISEA,alternance,E035,Silnet Groupe,Santé,12,1525,False
+2025,FISEA,alternance,E034,Orisoft Groupe,Éditeur logiciel,12,739,True
+2025,FISEA,alternance,E040,Cersys Groupe,Industrie,12,968,False
+2025,FISEA,alternance,E029,Pelworks,Secteur public,12,1205,False
+2025,FISEA,alternance,E005,Silnet,Énergie,12,926,True
+2025,FISEA,alternance,E031,Alttech Groupe,Conseil et ESN,12,1461,False
+2025,FISEA,alternance,E026,Wennova,Énergie,12,1515,False
+2025,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,1235,True
+2025,FISEA,alternance,E039,Lumworks Groupe,Secteur public,12,1613,False
+2025,FISEA,alternance,E024,Uxsoft,Conseil et ESN,12,971,True
+2025,FISEA,alternance,E010,Cersys,Énergie,12,1494,False
+2025,FISEA,alternance,E007,Temdata,Énergie,12,1590,True
+2025,FISEA,alternance,E004,Orisoft,Santé,12,882,True
+2025,FISEA,alternance,E014,Arksoft,Conseil et ESN,12,1200,False
+2025,FISEA,alternance,E028,Obrware,Conseil et ESN,12,1304,True
+2025,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1439,True
+2025,FISEA,alternance,E040,Cersys Groupe,Industrie,12,1196,False
+2025,FISEA,alternance,E026,Wennova,Énergie,12,1041,False
+2025,FISEA,alternance,E038,Briware Groupe,Santé,12,1248,False
+2025,FISEA,alternance,E037,Temdata Groupe,Industrie,12,1596,True
+2025,FISEA,alternance,E019,Galworks,Transport,12,1439,False
+2025,FISEA,alternance,E019,Galworks,Transport,12,1043,False
+2025,FISEA,alternance,E027,Nexdata,Banque et assurance,12,1557,True
+2025,FISEA,alternance,E004,Orisoft,Santé,12,1237,False
+2025,FISEA,alternance,E013,Pyrlogic,Énergie,12,1114,False
+2025,FISEA,alternance,E035,Silnet Groupe,Santé,12,1100,True
+2025,FISEA,alternance,E038,Briware Groupe,Santé,12,1231,False
+2025,Master,stage,E002,Norlab,Conseil et ESN,3,1457,False
+2025,Master,stage,E040,Cersys Groupe,Industrie,6,1442,True
+2025,Master,stage,E025,Yolnet,Santé,6,1352,True
+2025,Master,stage,E009,Lumworks,Transport,6,1193,False
+2025,Master,stage,E039,Lumworks Groupe,Secteur public,6,1170,False
+2025,Master,stage,E040,Cersys Groupe,Industrie,5,972,False
+2025,Master,stage,E006,Kalnova,Santé,6,1059,False
+2025,Master,stage,E036,Kalnova Groupe,Santé,6,1655,False
+2025,Master,stage,E013,Pyrlogic,Énergie,4,892,False
+2025,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,2,1478,True
+2025,Master,stage,E015,Zennet,Commerce,5,1640,False
+2025,Master,stage,E014,Arksoft,Conseil et ESN,2,1296,True
+2025,Master,stage,E013,Pyrlogic,Énergie,2,963,False
+2025,Master,stage,E019,Galworks,Transport,5,1141,False
+2025,Master,stage,E022,Rhelab,Conseil et ESN,2,763,False
+2025,Master,stage,E007,Temdata,Énergie,5,1093,False
+2025,Master,stage,E019,Galworks,Transport,2,838,False
+2025,Master,stage,E033,Vellogic Groupe,Éditeur logiciel,2,785,False
+2025,Master,stage,E027,Nexdata,Banque et assurance,6,958,True
+2025,Master,stage,E028,Obrware,Conseil et ESN,4,1137,False
+2025,Master,stage,E004,Orisoft,Santé,6,1633,False
+2025,Master,stage,E023,Tallogic,Industrie,2,757,True
+2025,Master,stage,E010,Cersys,Énergie,2,1211,False
+2025,Master,stage,E019,Galworks,Transport,2,1247,False
+2025,Master,stage,E005,Silnet,Énergie,6,1463,False
+2025,Master,stage,E033,Vellogic Groupe,Éditeur logiciel,3,986,True
+2025,Master,stage,E034,Orisoft Groupe,Éditeur logiciel,6,1245,False
+2025,Master,stage,E039,Lumworks Groupe,Secteur public,4,767,False
+2025,Master,stage,E035,Silnet Groupe,Santé,3,1677,False
+2025,Master,stage,E008,Briware,Télécoms,6,1504,False
+2025,Master,stage,E028,Obrware,Conseil et ESN,6,983,False
+2025,Master,stage,E001,Alttech,Conseil et ESN,5,1101,False
+2025,Master,stage,E017,Dordata,Énergie,6,1081,True
+2025,Master,stage,E010,Cersys,Énergie,6,1187,False

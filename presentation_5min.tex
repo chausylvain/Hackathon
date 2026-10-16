@@ -1,0 +1,190 @@
+\documentclass[aspectratio=169,12pt]{beamer}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{lmodern}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\definecolor{ensiieNavy}{HTML}{183B66}
+\definecolor{ensiieBlue}{HTML}{2A78D6}
+\definecolor{ensiieOrange}{HTML}{E88945}
+\definecolor{ensiiePaper}{HTML}{F6F7F8}
+\definecolor{ensiieInk}{HTML}{18212B}
+\definecolor{ensiieGray}{HTML}{596575}
+\definecolor{ensiieAlert}{HTML}{B02A2A}
+
+\usetheme{default}
+\setbeamercolor{normal text}{fg=ensiieInk,bg=ensiiePaper}
+\setbeamercolor{background canvas}{bg=ensiiePaper}
+\setbeamercolor{frametitle}{fg=ensiieNavy,bg=ensiiePaper}
+\setbeamerfont{frametitle}{size=\fontsize{27}{32}\selectfont,series=\bfseries}
+\setbeamertemplate{frametitle}{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=0.78cm,dp=0.20cm,leftskip=0.72cm]{frametitle}%
+    \insertframetitle
+  \end{beamercolorbox}%
+  \nointerlineskip\color{ensiieOrange}\rule{\paperwidth}{1.2pt}%
+}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}{%
+  \leavevmode%
+  \hbox{%
+    \begin{beamercolorbox}[wd=.82\paperwidth,ht=2.6ex,dp=1ex,leftskip=.72cm]{author in head/foot}%
+      \color{ensiieGray}\scriptsize Hackathon ensIIE 2026 \quad Projet 3
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.18\paperwidth,ht=2.6ex,dp=1ex,rightskip=.72cm plus 1fil]{date in head/foot}%
+      \color{ensiieGray}\scriptsize\insertframenumber/\inserttotalframenumber
+    \end{beamercolorbox}%
+  }%
+}
+\setbeamersize{text margin left=0.72cm,text margin right=0.72cm}
+
+\begin{document}
+
+% 0:00–0:25
+\setbeamercolor{background canvas}{bg=ensiieNavy}
+\begin{frame}[plain]
+  \vspace{0.62cm}
+  {\Large\bfseries\color{white}ensIIE}\\[0.16cm]
+  {\large\color{ensiieOrange}HACKATHON 2026 \quad PROJET 3}\\[1.04cm]
+  {\fontsize{42}{48}\selectfont\bfseries\color{white}Tableau de bord\\ stratégique}\\[0.42cm]
+  {\Large\color{white}20 indicateurs pour suivre six axes de pilotage}\\[1.08cm]
+  {\large\color{white}Démonstration sur des données fictives, de 2020 à 2025}
+\end{frame}
+\setbeamercolor{background canvas}{bg=ensiiePaper}
+
+% 0:25–1:15
+\begin{frame}{Un tableau de bord, six axes}
+  \vspace{0.08cm}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.31\textwidth}\centering
+      {\fontsize{43}{48}\selectfont\bfseries\color{ensiieBlue}8}\\[0.04cm]
+      {\large\color{ensiieGray}fichiers CSV}
+    \column{0.36\textwidth}\centering
+      {\fontsize{43}{48}\selectfont\bfseries\color{ensiieBlue}20}\\[0.04cm]
+      {\large\color{ensiieGray}indicateurs}
+    \column{0.31\textwidth}\centering
+      {\fontsize{43}{48}\selectfont\bfseries\color{ensiieBlue}6}\\[0.04cm]
+      {\large\color{ensiieGray}axes de pilotage}
+  \end{columns}
+  \vspace{0.63cm}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.48\textwidth}
+      {\Large\bfseries Formation}\\[0.15cm]
+      {\Large\bfseries Vie étudiante}\\[0.15cm]
+      {\Large\bfseries Entreprises}
+    \column{0.48\textwidth}
+      {\Large\bfseries International}\\[0.15cm]
+      {\Large\bfseries Recherche}\\[0.15cm]
+      {\Large\bfseries Budget}
+  \end{columns}
+  \vfill
+  {\large\color{ensiieGray}Filtres par année et par filière : FISE, FISEA, Master.}
+\end{frame}
+
+% 1:15–2:25
+\begin{frame}{Trois évolutions dans les données de démonstration}
+  \vspace{0.03cm}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.56\textwidth}
+      \centering
+      {\Large\bfseries Effectif total}\\[-0.03cm]
+      \begin{tikzpicture}
+        \begin{axis}[
+          width=\linewidth,
+          height=5.0cm,
+          xmin=2020,xmax=2025,
+          ymin=520,ymax=750,
+          xtick={2020,2021,2022,2023,2024,2025},
+          ytick={550,600,650,700,750},
+          tick label style={font=\small,text=ensiieGray},
+          axis line style={draw=ensiieGray!45},
+          tick style={draw=ensiieGray!45},
+          grid=major,
+          grid style={draw=ensiieGray!14},
+          ylabel={\small élèves},
+          ylabel style={font=\small,text=ensiieGray},
+          xlabel={\small année},
+          xlabel style={font=\small,text=ensiieGray},
+          clip=false,
+          enlarge x limits=0.08,
+          scaled y ticks=false,
+          y tick label style={/pgf/number format/1000 sep={}},
+        ]
+          \addplot[ensiieBlue,very thick,mark=*,mark size=2.4pt] coordinates {
+            (2020,560) (2021,568) (2022,642) (2023,660) (2024,702) (2025,712)
+          };
+          \addplot[only marks,mark=*,mark size=3.4pt,ensiieOrange] coordinates {(2025,712)};
+          \node[anchor=west,font=\small\bfseries,text=ensiieNavy] at (axis cs:2025,712) {712};
+        \end{axis}
+      \end{tikzpicture}\\[-0.02cm]
+      {\large 560 en 2020, 712 en 2025}\\[-0.04cm]
+      {\large\bfseries\color{ensiieBlue}Hausse de 27\,\%}
+    \column{0.40\textwidth}
+      \vspace{0.39cm}
+      {\fontsize{34}{39}\selectfont\bfseries\color{ensiieNavy}91,5\,\%}\\[-0.05cm]
+      {\Large Taux de réussite en 2025}\\[0.07cm]
+      {\large\color{ensiieGray}Progression de 3,8 points depuis 2020}\\[0.48cm]
+      {\fontsize{29}{34}\selectfont\bfseries\color{ensiieNavy}236\,750\,€}\\[-0.05cm]
+      {\Large Taxe d'apprentissage en 2025}\\[0.07cm]
+      {\large\color{ensiieGray}Montant multiplié par 4,6 depuis 2020}
+  \end{columns}
+  \vfill
+  {\small\color{ensiieGray}Calculs sur les CSV fournis. Les données sont fictives.}
+\end{frame}
+
+% 2:25–3:20
+\begin{frame}{Trois indicateurs sous leur seuil en 2025}
+  \vspace{0.26cm}
+  {\Large Les seuils rendent visibles les valeurs à examiner.}
+  \vspace{0.42cm}
+  \renewcommand{\arraystretch}{1.58}
+  {\large
+  \begin{tabular}{@{}p{0.48\textwidth}p{0.18\textwidth}p{0.27\textwidth}@{}}
+    {\color{ensiieGray}\textbf{Indicateur}} & {\color{ensiieGray}\textbf{2025}} & {\color{ensiieGray}\textbf{Seuil}} \\
+    \hline
+    Part de femmes & {\color{ensiieAlert}\textbf{23,2\,\%}} & au moins 25\,\% \\
+    Satisfaction des élèves & {\color{ensiieAlert}\textbf{3,6 / 5}} & au moins 3,7 / 5 \\
+    Mobilités sortantes pour 100 élèves & {\color{ensiieAlert}\textbf{8,85}} & au moins 10 \\
+  \end{tabular}}
+  \vspace{0.55cm}
+  {\Large\bfseries\color{ensiieNavy}Une alerte ouvre la tendance et le seuil de référence.}\\[0.18cm]
+  {\normalsize\color{ensiieGray}Valeurs et seuils présentés à titre de démonstration.}
+\end{frame}
+
+% 3:20–4:15
+\begin{frame}{Parcours d'analyse}
+  \vspace{0.26cm}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.47\textwidth}
+      {\fontsize{22}{26}\selectfont\bfseries\color{ensiieOrange}01}\\[-0.02cm]
+      {\Large\bfseries Filtrer}\\[0.08cm]
+      {\large\color{ensiieGray}Choisir une année et les filières.}\\[0.62cm]
+      {\fontsize{22}{26}\selectfont\bfseries\color{ensiieOrange}03}\\[-0.02cm]
+      {\Large\bfseries Vérifier}\\[0.08cm]
+      {\large\color{ensiieGray}Consulter la définition, la formule et les sources.}
+    \column{0.47\textwidth}
+      {\fontsize{22}{26}\selectfont\bfseries\color{ensiieOrange}02}\\[-0.02cm]
+      {\Large\bfseries Repérer}\\[0.08cm]
+      {\large\color{ensiieGray}Lire les alertes et l'évolution des indicateurs.}\\[0.62cm]
+      {\fontsize{22}{26}\selectfont\bfseries\color{ensiieOrange}04}\\[-0.02cm]
+      {\Large\bfseries Exporter}\\[0.08cm]
+      {\large\color{ensiieGray}Télécharger les résultats en CSV.}
+  \end{columns}
+  \vfill
+  {\large L'interface relie la vue générale au détail de chaque axe.}
+\end{frame}
+
+% 4:15–5:00
+\setbeamercolor{background canvas}{bg=ensiieNavy}
+\begin{frame}[plain]
+  \vspace{0.58cm}
+  {\large\bfseries\color{ensiieOrange}USAGE RÉEL}\\[0.52cm]
+  {\fontsize{31}{37}\selectfont\bfseries\color{white}Données officielles,\\ seuils validés}\\[0.54cm]
+  {\Large\color{white}Remplacer les fichiers de démonstration par les exports de l'école, puis faire valider les définitions et seuils par les responsables des axes.}\\[0.66cm]
+  {\large\color{white}Pour la démo : filtrer une filière, ouvrir un axe et lire la courbe.}\\[0.5cm]
+  {\Large\bfseries\color{ensiieOrange}Merci}
+\end{frame}
+
+\end{document}
